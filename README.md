@@ -27,22 +27,36 @@ We model social networks as Scale-Free graphs (Barabási-Albert topology) where 
 
 $$ H = -J \sum_{\langle i,j \rangle} s_i s_j - h \sum_i s_i $$
 
-*   **J (Coupling Constant)**: Social pressure/Homophily.
-*   **h (External Field)**: Algorithmic bias, marketing, or propaganda.
-*   **s (Spin)**: The binary state of adoption (Accept/Reject).
+### Visual Evidence: Network Topology & Consensus
+The formation of "organic bubbles" (clusters) around high-degree nodes.
+![Network Topology](assets/rede_influenciadores_e_consenso.png)
 
-### Key Findings
-*   **The 3% Tipping Point**: Pinning Control simulations demonstrated that ensuring the loyalty of just **3%** of the network (specifically high-Eigenvector Centrality hubs) is sufficient to irreversibly invert the global consensus of the network, even against a persistent external field. This defines the "Oligarchy of the Hubs".
+### Key Findings: The 3% Tipping Point
+Pinning Control simulations demonstrated that ensuring the loyalty of just **3%** of the network (Hubs) is sufficient to invert global consensus.
+![Targeted Attack](assets/ataque_direcionado.png)
+
+*(See also: Community Detection)*
+![Communities](assets/comunidades_detectadas.png)
 
 ## Phase 2: Reddit Market Physics
 Transitioning from simulation to reality, we mapped Reddit communities to canonical ensembles.
-*   **Susceptibility ($\chi$)**: Defined as the fluctuation of the order parameter (Sentiment/Pain), serving as a proxy for Market Volatility and "Gold Rush" potential.
-*   **Portfolio Scanning**: Real-time monitoring of multiple sectors (e.g., r/Entrepreneur, r/Investing) identified r/Entrepreneur as a critical system ($\chi \approx 0.70$) with high latent demand dynamics.
+*   **Susceptibility ($\chi$)**: Proxy for Market Volatility and "Gold Rush" potential.
+*   **Portfolio Scanning**: Identified r/Entrepreneur as a critical system ($\chi \approx 0.70$).
+
+### Visual Evidence: Portfolio Opportunity Matrix
+A scatter plot ranking sectors by Volatility (Susceptibility) vs. Latent Demand (Pain).
+![Portfolio Matrix](assets/portfolio_matrix.png)
 
 ## Phase 3: Semantic Field Engineering
-Using the data from the critical systems, we extract the "Interaction Energy" of specific keywords. By calculating the correlation between Term Frequency and the product of Pain Score (Spin) and Visibility (External Field), we generate a **Pain Cloud**.
+Using the data from the critical systems, we extract the "Interaction Energy" of specific keywords.
 
-*   **Vocabulário de Ataque**: Words like "Problem", "Without", and "Building" were identified as having the highest cross-section for engagement, serving as the basis for "High-Q" copywriting.
+*   **Vocabulário de Ataque**: Words like "Problem", "Without", and "Building" engage the system with minimal resistance.
+
+### Visual Evidence: The Pain Cloud
+A semantic map showing words with the highest binding energy (Pain x Visibility).
+![Pain Cloud](assets/pain_cloud.png)
+
+---
 
 ## Strategic Insights for Business & State
 This framework provides a deterministic approach to social engineering:
