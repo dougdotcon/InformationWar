@@ -1,0 +1,19 @@
+# Modelos Pesados (LLMs)
+model-bitnet-b1.58-2b-4t/
+*.safetensors
+*.bin
+*.model
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# Dados Temporários e Logs
+*.log
+*.tmp
+
+# IDEs
+.vscode/
+.idea/

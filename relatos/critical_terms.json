@@ -1,0 +1,5802 @@
+[
+  {
+    "term": "problem",
+    "score": 280.49325350887784,
+    "freq": 18
+  },
+  {
+    "term": "keep",
+    "score": 232.88972977293392,
+    "freq": 19
+  },
+  {
+    "term": "without",
+    "score": 195.29419261812575,
+    "freq": 13
+  },
+  {
+    "term": "every",
+    "score": 182.7159754664412,
+    "freq": 14
+  },
+  {
+    "term": "building",
+    "score": 177.02777014759303,
+    "freq": 21
+  },
+  {
+    "term": "build",
+    "score": 174.808108450567,
+    "freq": 20
+  },
+  {
+    "term": "love",
+    "score": 173.75681612560572,
+    "freq": 18
+  },
+  {
+    "term": "another",
+    "score": 173.57949662516182,
+    "freq": 12
+  },
+  {
+    "term": "stuff",
+    "score": 173.05533681608753,
+    "freq": 11
+  },
+  {
+    "term": "feel",
+    "score": 170.55338209041227,
+    "freq": 18
+  },
+  {
+    "term": "nothing",
+    "score": 161.6442079284048,
+    "freq": 9
+  },
+  {
+    "term": "clear",
+    "score": 160.9412451075643,
+    "freq": 10
+  },
+  {
+    "term": "care",
+    "score": 160.7058433031403,
+    "freq": 10
+  },
+  {
+    "term": "already",
+    "score": 160.35926971286037,
+    "freq": 13
+  },
+  {
+    "term": "around",
+    "score": 158.09279379254266,
+    "freq": 11
+  },
+  {
+    "term": "tools",
+    "score": 153.87908414556955,
+    "freq": 14
+  },
+  {
+    "term": "later",
+    "score": 152.46820450037018,
+    "freq": 10
+  },
+  {
+    "term": "google",
+    "score": 150.8373414845339,
+    "freq": 9
+  },
+  {
+    "term": "tell",
+    "score": 149.72949336157632,
+    "freq": 8
+  },
+  {
+    "term": "days",
+    "score": 148.8092411458692,
+    "freq": 7
+  },
+  {
+    "term": "founders",
+    "score": 146.87513907857067,
+    "freq": 13
+  },
+  {
+    "term": "enough",
+    "score": 145.44982981413233,
+    "freq": 8
+  },
+  {
+    "term": "matter",
+    "score": 145.2493625662771,
+    "freq": 8
+  },
+  {
+    "term": "asking",
+    "score": 142.5252473115163,
+    "freq": 6
+  },
+  {
+    "term": "based",
+    "score": 141.60385478009334,
+    "freq": 13
+  },
+  {
+    "term": "were",
+    "score": 138.35095217549073,
+    "freq": 15
+  },
+  {
+    "term": "lost",
+    "score": 137.3851051114043,
+    "freq": 7
+  },
+  {
+    "term": "amount",
+    "score": 134.83546065424807,
+    "freq": 8
+  },
+  {
+    "term": "doesn",
+    "score": 133.35566954721247,
+    "freq": 11
+  },
+  {
+    "term": "revenue",
+    "score": 133.24236344054256,
+    "freq": 7
+  },
+  {
+    "term": "context",
+    "score": 132.79981981936518,
+    "freq": 8
+  },
+  {
+    "term": "everything",
+    "score": 131.44013968990606,
+    "freq": 10
+  },
+  {
+    "term": "experience",
+    "score": 127.27716291292201,
+    "freq": 12
+  },
+  {
+    "term": "fast",
+    "score": 126.85628237170565,
+    "freq": 8
+  },
+  {
+    "term": "same",
+    "score": 126.39432441607141,
+    "freq": 14
+  },
+  {
+    "term": "actual",
+    "score": 126.32433759719456,
+    "freq": 7
+  },
+  {
+    "term": "users",
+    "score": 126.27159795251777,
+    "freq": 12
+  },
+  {
+    "term": "show",
+    "score": 125.84256721133997,
+    "freq": 10
+  },
+  {
+    "term": "less",
+    "score": 125.0147804323881,
+    "freq": 7
+  },
+  {
+    "term": "team",
+    "score": 124.11611531183274,
+    "freq": 9
+  },
+  {
+    "term": "worked",
+    "score": 122.19434529377148,
+    "freq": 9
+  },
+  {
+    "term": "life",
+    "score": 121.45832348519045,
+    "freq": 11
+  },
+  {
+    "term": "market",
+    "score": 121.40754496731468,
+    "freq": 13
+  },
+  {
+    "term": "myself",
+    "score": 121.00173951009388,
+    "freq": 11
+  },
+  {
+    "term": "space",
+    "score": 120.66518751625782,
+    "freq": 8
+  },
+  {
+    "term": "approach",
+    "score": 119.63889147420022,
+    "freq": 5
+  },
+  {
+    "term": "working",
+    "score": 118.87444372472234,
+    "freq": 20
+  },
+  {
+    "term": "feels",
+    "score": 118.72860939097176,
+    "freq": 7
+  },
+  {
+    "term": "understand",
+    "score": 117.74778013796005,
+    "freq": 12
+  },
+  {
+    "term": "learn",
+    "score": 117.67592520660526,
+    "freq": 12
+  },
+  {
+    "term": "using",
+    "score": 117.40770486622552,
+    "freq": 14
+  },
+  {
+    "term": "businesses",
+    "score": 116.62463004929461,
+    "freq": 14
+  },
+  {
+    "term": "last",
+    "score": 116.51314767862907,
+    "freq": 11
+  },
+  {
+    "term": "answer",
+    "score": 116.48722421101249,
+    "freq": 6
+  },
+  {
+    "term": "between",
+    "score": 114.58118477220566,
+    "freq": 10
+  },
+  {
+    "term": "solution",
+    "score": 114.50510333928193,
+    "freq": 6
+  },
+  {
+    "term": "others",
+    "score": 113.72277989919188,
+    "freq": 13
+  },
+  {
+    "term": "giving",
+    "score": 113.13822727768193,
+    "freq": 7
+  },
+  {
+    "term": "thought",
+    "score": 112.72614936134913,
+    "freq": 8
+  },
+  {
+    "term": "require",
+    "score": 112.26776059667817,
+    "freq": 5
+  },
+  {
+    "term": "forward",
+    "score": 111.8471917279194,
+    "freq": 6
+  },
+  {
+    "term": "stop",
+    "score": 111.19744854388749,
+    "freq": 8
+  },
+  {
+    "term": "instead",
+    "score": 111.11779034335811,
+    "freq": 12
+  },
+  {
+    "term": "emails",
+    "score": 109.83496994802918,
+    "freq": 6
+  },
+  {
+    "term": "personal",
+    "score": 109.56825937260416,
+    "freq": 8
+  },
+  {
+    "term": "total",
+    "score": 109.14182276746922,
+    "freq": 5
+  },
+  {
+    "term": "number",
+    "score": 108.67141558258515,
+    "freq": 5
+  },
+  {
+    "term": "create",
+    "score": 108.40392868097172,
+    "freq": 8
+  },
+  {
+    "term": "mean",
+    "score": 108.20633399890734,
+    "freq": 6
+  },
+  {
+    "term": "milestones",
+    "score": 107.93123890442891,
+    "freq": 3
+  },
+  {
+    "term": "learned",
+    "score": 107.75603753766902,
+    "freq": 7
+  },
+  {
+    "term": "looks",
+    "score": 107.72320402041034,
+    "freq": 6
+  },
+  {
+    "term": "gets",
+    "score": 106.57247573060322,
+    "freq": 5
+  },
+  {
+    "term": "choose",
+    "score": 105.81834446343028,
+    "freq": 4
+  },
+  {
+    "term": "weren",
+    "score": 104.70711036853294,
+    "freq": 5
+  },
+  {
+    "term": "figure",
+    "score": 104.46541983712325,
+    "freq": 8
+  },
+  {
+    "term": "deal",
+    "score": 104.01194538272802,
+    "freq": 7
+  },
+  {
+    "term": "reviews",
+    "score": 103.94999442995882,
+    "freq": 4
+  },
+  {
+    "term": "needs",
+    "score": 103.51220493591165,
+    "freq": 7
+  },
+  {
+    "term": "dead",
+    "score": 103.48586973719841,
+    "freq": 3
+  },
+  {
+    "term": "random",
+    "score": 103.1025546902339,
+    "freq": 4
+  },
+  {
+    "term": "helpful",
+    "score": 102.34151741920599,
+    "freq": 6
+  },
+  {
+    "term": "meaningful",
+    "score": 101.82718340088863,
+    "freq": 5
+  },
+  {
+    "term": "slow",
+    "score": 101.70911488764922,
+    "freq": 2
+  },
+  {
+    "term": "lose",
+    "score": 101.6859327437823,
+    "freq": 3
+  },
+  {
+    "term": "great",
+    "score": 101.41243684416428,
+    "freq": 6
+  },
+  {
+    "term": "tech",
+    "score": 100.73543107610229,
+    "freq": 6
+  },
+  {
+    "term": "main",
+    "score": 100.61700888145756,
+    "freq": 8
+  },
+  {
+    "term": "text",
+    "score": 99.85064781138658,
+    "freq": 3
+  },
+  {
+    "term": "read",
+    "score": 99.49329310273079,
+    "freq": 7
+  },
+  {
+    "term": "messy",
+    "score": 99.0082101280118,
+    "freq": 3
+  },
+  {
+    "term": "seen",
+    "score": 98.62734115473334,
+    "freq": 6
+  },
+  {
+    "term": "experienced",
+    "score": 97.24104679361345,
+    "freq": 4
+  },
+  {
+    "term": "focus",
+    "score": 97.14545197247949,
+    "freq": 9
+  },
+  {
+    "term": "write",
+    "score": 97.05307823351012,
+    "freq": 6
+  },
+  {
+    "term": "design",
+    "score": 96.97942272173118,
+    "freq": 9
+  },
+  {
+    "term": "features",
+    "score": 96.90698017052465,
+    "freq": 6
+  },
+  {
+    "term": "possible",
+    "score": 96.84235720219448,
+    "freq": 4
+  },
+  {
+    "term": "colors",
+    "score": 96.66517351739022,
+    "freq": 3
+  },
+  {
+    "term": "whole",
+    "score": 96.53434857967517,
+    "freq": 4
+  },
+  {
+    "term": "needed",
+    "score": 96.01832772296136,
+    "freq": 9
+  },
+  {
+    "term": "asked",
+    "score": 95.90009291694341,
+    "freq": 10
+  },
+  {
+    "term": "note",
+    "score": 95.9000929169434,
+    "freq": 4
+  },
+  {
+    "term": "success",
+    "score": 95.16109612061393,
+    "freq": 6
+  },
+  {
+    "term": "spent",
+    "score": 94.74571893975249,
+    "freq": 8
+  },
+  {
+    "term": "built",
+    "score": 94.72035958882216,
+    "freq": 14
+  },
+  {
+    "term": "everywhere",
+    "score": 94.487740555254,
+    "freq": 3
+  },
+  {
+    "term": "stories",
+    "score": 94.36221794750344,
+    "freq": 6
+  },
+  {
+    "term": "harder",
+    "score": 94.03274982512642,
+    "freq": 5
+  },
+  {
+    "term": "legal",
+    "score": 93.3891282665859,
+    "freq": 4
+  },
+  {
+    "term": "numbers",
+    "score": 93.32032016068615,
+    "freq": 3
+  },
+  {
+    "term": "platform",
+    "score": 92.81376412168235,
+    "freq": 10
+  },
+  {
+    "term": "user",
+    "score": 92.57045847827538,
+    "freq": 4
+  },
+  {
+    "term": "insights",
+    "score": 92.34940749574598,
+    "freq": 6
+  },
+  {
+    "term": "starting",
+    "score": 92.24918134899522,
+    "freq": 12
+  },
+  {
+    "term": "math",
+    "score": 92.11400588240801,
+    "freq": 4
+  },
+  {
+    "term": "wrong",
+    "score": 91.66771877977959,
+    "freq": 4
+  },
+  {
+    "term": "research",
+    "score": 91.42069424387326,
+    "freq": 6
+  },
+  {
+    "term": "literally",
+    "score": 91.41391872718408,
+    "freq": 5
+  },
+  {
+    "term": "hiring",
+    "score": 91.02200465245429,
+    "freq": 6
+  },
+  {
+    "term": "showing",
+    "score": 90.64259754491562,
+    "freq": 3
+  },
+  {
+    "term": "genuinely",
+    "score": 89.88860657438074,
+    "freq": 9
+  },
+  {
+    "term": "call",
+    "score": 89.55604262782711,
+    "freq": 7
+  },
+  {
+    "term": "products",
+    "score": 89.49742481447265,
+    "freq": 12
+  },
+  {
+    "term": "handle",
+    "score": 89.30773765614725,
+    "freq": 8
+  },
+  {
+    "term": "wanted",
+    "score": 89.25944110145439,
+    "freq": 11
+  },
+  {
+    "term": "happen",
+    "score": 89.18348755408984,
+    "freq": 4
+  },
+  {
+    "term": "balance",
+    "score": 89.10686651270743,
+    "freq": 3
+  },
+  {
+    "term": "push",
+    "score": 89.10472257547566,
+    "freq": 5
+  },
+  {
+    "term": "hear",
+    "score": 88.88076611614478,
+    "freq": 13
+  },
+  {
+    "term": "ideas",
+    "score": 88.67548606922057,
+    "freq": 15
+  },
+  {
+    "term": "data",
+    "score": 88.64383593687131,
+    "freq": 4
+  },
+  {
+    "term": "positioning",
+    "score": 88.58728589299528,
+    "freq": 4
+  },
+  {
+    "term": "global",
+    "score": 88.53822651604608,
+    "freq": 4
+  },
+  {
+    "term": "huge",
+    "score": 88.41157539491572,
+    "freq": 4
+  },
+  {
+    "term": "thinking",
+    "score": 88.24873918719629,
+    "freq": 11
+  },
+  {
+    "term": "story",
+    "score": 88.23038235150155,
+    "freq": 6
+  },
+  {
+    "term": "signals",
+    "score": 88.21658241295582,
+    "freq": 4
+  },
+  {
+    "term": "outreach",
+    "score": 88.17810189238774,
+    "freq": 5
+  },
+  {
+    "term": "sold",
+    "score": 87.19614412599623,
+    "freq": 6
+  },
+  {
+    "term": "traction",
+    "score": 87.18832010670947,
+    "freq": 4
+  },
+  {
+    "term": "complex",
+    "score": 86.49048997824512,
+    "freq": 4
+  },
+  {
+    "term": "matters",
+    "score": 86.16997438853465,
+    "freq": 5
+  },
+  {
+    "term": "knows",
+    "score": 86.1564233551563,
+    "freq": 3
+  },
+  {
+    "term": "code",
+    "score": 85.52233215039935,
+    "freq": 4
+  },
+  {
+    "term": "friend",
+    "score": 85.47682720797472,
+    "freq": 3
+  },
+  {
+    "term": "format",
+    "score": 85.41310184869444,
+    "freq": 5
+  },
+  {
+    "term": "single",
+    "score": 85.27313059851565,
+    "freq": 6
+  },
+  {
+    "term": "growth",
+    "score": 84.43033092044563,
+    "freq": 5
+  },
+  {
+    "term": "compete",
+    "score": 83.98211570700721,
+    "freq": 2
+  },
+  {
+    "term": "means",
+    "score": 83.74395925657485,
+    "freq": 4
+  },
+  {
+    "term": "solve",
+    "score": 83.74395925657485,
+    "freq": 3
+  },
+  {
+    "term": "humans",
+    "score": 83.74395925657485,
+    "freq": 3
+  },
+  {
+    "term": "learning",
+    "score": 82.91524682943736,
+    "freq": 7
+  },
+  {
+    "term": "noise",
+    "score": 82.69068745235657,
+    "freq": 3
+  },
+  {
+    "term": "customer",
+    "score": 82.64534696790675,
+    "freq": 3
+  },
+  {
+    "term": "runway",
+    "score": 82.37267779457311,
+    "freq": 2
+  },
+  {
+    "term": "grow",
+    "score": 82.00431578848581,
+    "freq": 4
+  },
+  {
+    "term": "used",
+    "score": 81.97171445824368,
+    "freq": 10
+  },
+  {
+    "term": "honestly",
+    "score": 81.95679129130595,
+    "freq": 6
+  },
+  {
+    "term": "quick",
+    "score": 81.70675553518186,
+    "freq": 5
+  },
+  {
+    "term": "word",
+    "score": 81.56795883835606,
+    "freq": 4
+  },
+  {
+    "term": "bullshit",
+    "score": 81.30439309123669,
+    "freq": 2
+  },
+  {
+    "term": "pulled",
+    "score": 81.30439309123669,
+    "freq": 2
+  },
+  {
+    "term": "save",
+    "score": 81.30439309123669,
+    "freq": 3
+  },
+  {
+    "term": "removed",
+    "score": 80.27822335377513,
+    "freq": 4
+  },
+  {
+    "term": "plan",
+    "score": 80.03588176577317,
+    "freq": 6
+  },
+  {
+    "term": "deck",
+    "score": 80.02458775915441,
+    "freq": 3
+  },
+  {
+    "term": "said",
+    "score": 79.948026770574,
+    "freq": 10
+  },
+  {
+    "term": "competition",
+    "score": 79.9180987301168,
+    "freq": 2
+  },
+  {
+    "term": "separate",
+    "score": 79.89881624623646,
+    "freq": 4
+  },
+  {
+    "term": "frameworks",
+    "score": 79.89881624623646,
+    "freq": 2
+  },
+  {
+    "term": "case",
+    "score": 79.58280771329257,
+    "freq": 5
+  },
+  {
+    "term": "generate",
+    "score": 79.578300656526,
+    "freq": 5
+  },
+  {
+    "term": "niche",
+    "score": 79.48770413481893,
+    "freq": 5
+  },
+  {
+    "term": "explain",
+    "score": 79.4084016197306,
+    "freq": 5
+  },
+  {
+    "term": "anything",
+    "score": 79.38245320560628,
+    "freq": 11
+  },
+  {
+    "term": "least",
+    "score": 79.25778506681554,
+    "freq": 4
+  },
+  {
+    "term": "solving",
+    "score": 78.87837795927688,
+    "freq": 4
+  },
+  {
+    "term": "shipping",
+    "score": 78.6165779962568,
+    "freq": 6
+  },
+  {
+    "term": "connection",
+    "score": 77.85220822181532,
+    "freq": 2
+  },
+  {
+    "term": "count",
+    "score": 77.85220822181532,
+    "freq": 2
+  },
+  {
+    "term": "ratio",
+    "score": 77.85220822181532,
+    "freq": 2
+  },
+  {
+    "term": "points",
+    "score": 77.85220822181532,
+    "freq": 2
+  },
+  {
+    "term": "investors",
+    "score": 77.84543270512614,
+    "freq": 3
+  },
+  {
+    "term": "probably",
+    "score": 77.35433305616277,
+    "freq": 3
+  },
+  {
+    "term": "haven",
+    "score": 76.89066145268393,
+    "freq": 5
+  },
+  {
+    "term": "spend",
+    "score": 76.85543158994344,
+    "freq": 11
+  },
+  {
+    "term": "coming",
+    "score": 76.84794975457305,
+    "freq": 5
+  },
+  {
+    "term": "send",
+    "score": 76.75359593314721,
+    "freq": 2
+  },
+  {
+    "term": "label",
+    "score": 76.75359593314721,
+    "freq": 2
+  },
+  {
+    "term": "break",
+    "score": 76.51802986183444,
+    "freq": 3
+  },
+  {
+    "term": "hours",
+    "score": 76.41089238275494,
+    "freq": 8
+  },
+  {
+    "term": "systems",
+    "score": 76.30643373762466,
+    "freq": 6
+  },
+  {
+    "term": "review",
+    "score": 76.11256475372628,
+    "freq": 3
+  },
+  {
+    "term": "though",
+    "score": 76.09545403323047,
+    "freq": 9
+  },
+  {
+    "term": "problems",
+    "score": 76.06262051597176,
+    "freq": 6
+  },
+  {
+    "term": "moving",
+    "score": 76.06077067178424,
+    "freq": 5
+  },
+  {
+    "term": "powered",
+    "score": 75.93492614483671,
+    "freq": 2
+  },
+  {
+    "term": "insight",
+    "score": 75.798824680705,
+    "freq": 4
+  },
+  {
+    "term": "automation",
+    "score": 75.79204916401581,
+    "freq": 2
+  },
+  {
+    "term": "anyway",
+    "score": 75.6307031150125,
+    "freq": 5
+  },
+  {
+    "term": "pitch",
+    "score": 75.41941757316633,
+    "freq": 3
+  },
+  {
+    "term": "talked",
+    "score": 75.41941757316633,
+    "freq": 2
+  },
+  {
+    "term": "running",
+    "score": 75.31058181758362,
+    "freq": 7
+  },
+  {
+    "term": "standard",
+    "score": 75.15392371523697,
+    "freq": 4
+  },
+  {
+    "term": "since",
+    "score": 75.04388050551539,
+    "freq": 10
+  },
+  {
+    "term": "social",
+    "score": 74.95944011843736,
+    "freq": 12
+  },
+  {
+    "term": "tool",
+    "score": 74.89600181770325,
+    "freq": 10
+  },
+  {
+    "term": "busy",
+    "score": 74.72190936389897,
+    "freq": 7
+  },
+  {
+    "term": "email",
+    "score": 74.1260612077057,
+    "freq": 4
+  },
+  {
+    "term": "exact",
+    "score": 74.00706521147694,
+    "freq": 4
+  },
+  {
+    "term": "mobile",
+    "score": 74.00706521147694,
+    "freq": 2
+  },
+  {
+    "term": "cannot",
+    "score": 74.00706521147694,
+    "freq": 2
+  },
+  {
+    "term": "cold",
+    "score": 73.96858469090887,
+    "freq": 3
+  },
+  {
+    "term": "part",
+    "score": 73.29576324423395,
+    "freq": 9
+  },
+  {
+    "term": "simple",
+    "score": 73.12315332661676,
+    "freq": 9
+  },
+  {
+    "term": "domain",
+    "score": 73.04551844234554,
+    "freq": 4
+  },
+  {
+    "term": "shit",
+    "score": 72.98662692451734,
+    "freq": 2
+  },
+  {
+    "term": "clarity",
+    "score": 72.98662692451734,
+    "freq": 2
+  },
+  {
+    "term": "almost",
+    "score": 71.94690615367743,
+    "freq": 4
+  },
+  {
+    "term": "struggling",
+    "score": 71.72899308880665,
+    "freq": 6
+  },
+  {
+    "term": "internet",
+    "score": 71.26053448980666,
+    "freq": 2
+  },
+  {
+    "term": "logic",
+    "score": 71.26053448980666,
+    "freq": 3
+  },
+  {
+    "term": "jump",
+    "score": 71.26053448980666,
+    "freq": 2
+  },
+  {
+    "term": "curious",
+    "score": 70.97805671253025,
+    "freq": 12
+  },
+  {
+    "term": "works",
+    "score": 70.83288142101668,
+    "freq": 11
+  },
+  {
+    "term": "expertise",
+    "score": 70.56061179255754,
+    "freq": 2
+  },
+  {
+    "term": "closing",
+    "score": 70.56061179255754,
+    "freq": 3
+  },
+  {
+    "term": "file",
+    "score": 70.56061179255754,
+    "freq": 2
+  },
+  {
+    "term": "consistency",
+    "score": 70.56061179255754,
+    "freq": 3
+  },
+  {
+    "term": "current",
+    "score": 70.5533866802568,
+    "freq": 7
+  },
+  {
+    "term": "weeks",
+    "score": 70.3461856870102,
+    "freq": 5
+  },
+  {
+    "term": "early",
+    "score": 70.24864919063917,
+    "freq": 11
+  },
+  {
+    "term": "learnings",
+    "score": 69.55166268038437,
+    "freq": 2
+  },
+  {
+    "term": "clearly",
+    "score": 69.55166268038437,
+    "freq": 2
+  },
+  {
+    "term": "technical",
+    "score": 69.52089102171762,
+    "freq": 3
+  },
+  {
+    "term": "standing",
+    "score": 69.52089102171762,
+    "freq": 2
+  },
+  {
+    "term": "shows",
+    "score": 69.32934424943164,
+    "freq": 4
+  },
+  {
+    "term": "remove",
+    "score": 69.27403094378609,
+    "freq": 2
+  },
+  {
+    "term": "sticks",
+    "score": 68.82774384115767,
+    "freq": 2
+  },
+  {
+    "term": "linkedin",
+    "score": 68.51400376813639,
+    "freq": 2
+  },
+  {
+    "term": "gemini",
+    "score": 68.51400376813639,
+    "freq": 2
+  },
+  {
+    "term": "claude",
+    "score": 68.51400376813639,
+    "freq": 2
+  },
+  {
+    "term": "bulk",
+    "score": 68.51400376813639,
+    "freq": 2
+  },
+  {
+    "term": "template",
+    "score": 68.51400376813639,
+    "freq": 2
+  },
+  {
+    "term": "someone",
+    "score": 68.38704887030902,
+    "freq": 13
+  },
+  {
+    "term": "assumptions",
+    "score": 68.19522128241417,
+    "freq": 2
+  },
+  {
+    "term": "share",
+    "score": 67.82717743402091,
+    "freq": 11
+  },
+  {
+    "term": "proper",
+    "score": 67.79897691890991,
+    "freq": 4
+  },
+  {
+    "term": "investor",
+    "score": 67.09487588975782,
+    "freq": 2
+  },
+  {
+    "term": "financial",
+    "score": 67.09487588975782,
+    "freq": 2
+  },
+  {
+    "term": "advisor",
+    "score": 67.09487588975782,
+    "freq": 2
+  },
+  {
+    "term": "situation",
+    "score": 66.9877384106783,
+    "freq": 5
+  },
+  {
+    "term": "nobody",
+    "score": 66.86608533513422,
+    "freq": 3
+  },
+  {
+    "term": "easier",
+    "score": 66.86608533513422,
+    "freq": 3
+  },
+  {
+    "term": "whatever",
+    "score": 66.86159642086761,
+    "freq": 5
+  },
+  {
+    "term": "method",
+    "score": 66.7164296839004,
+    "freq": 4
+  },
+  {
+    "term": "process",
+    "score": 66.48896483001815,
+    "freq": 7
+  },
+  {
+    "term": "fundraising",
+    "score": 66.46062022702606,
+    "freq": 2
+  },
+  {
+    "term": "feature",
+    "score": 66.46062022702606,
+    "freq": 3
+  },
+  {
+    "term": "fundraise",
+    "score": 66.46062022702606,
+    "freq": 2
+  },
+  {
+    "term": "months",
+    "score": 66.12214470045285,
+    "freq": 8
+  },
+  {
+    "term": "customers",
+    "score": 65.83074373550168,
+    "freq": 9
+  },
+  {
+    "term": "lean",
+    "score": 65.76747304646611,
+    "freq": 2
+  },
+  {
+    "term": "shift",
+    "score": 65.76747304646611,
+    "freq": 2
+  },
+  {
+    "term": "strategy",
+    "score": 65.76747304646611,
+    "freq": 3
+  },
+  {
+    "term": "course",
+    "score": 65.36200793835795,
+    "freq": 2
+  },
+  {
+    "term": "assume",
+    "score": 65.36200793835795,
+    "freq": 2
+  },
+  {
+    "term": "check",
+    "score": 65.18943535793701,
+    "freq": 7
+  },
+  {
+    "term": "search",
+    "score": 64.73407470303383,
+    "freq": 2
+  },
+  {
+    "term": "cover",
+    "score": 64.668860757798,
+    "freq": 2
+  },
+  {
+    "term": "nice",
+    "score": 64.668860757798,
+    "freq": 2
+  },
+  {
+    "term": "profile",
+    "score": 64.668860757798,
+    "freq": 2
+  },
+  {
+    "term": "algorithm",
+    "score": 64.668860757798,
+    "freq": 2
+  },
+  {
+    "term": "screen",
+    "score": 64.668860757798,
+    "freq": 2
+  },
+  {
+    "term": "boring",
+    "score": 64.668860757798,
+    "freq": 2
+  },
+  {
+    "term": "fonts",
+    "score": 64.668860757798,
+    "freq": 2
+  },
+  {
+    "term": "naturally",
+    "score": 64.668860757798,
+    "freq": 2
+  },
+  {
+    "term": "urgent",
+    "score": 64.668860757798,
+    "freq": 2
+  },
+  {
+    "term": "custom",
+    "score": 64.668860757798,
+    "freq": 2
+  },
+  {
+    "term": "anymore",
+    "score": 64.668860757798,
+    "freq": 2
+  },
+  {
+    "term": "wants",
+    "score": 64.19077720734546,
+    "freq": 4
+  },
+  {
+    "term": "recently",
+    "score": 64.13361879350552,
+    "freq": 5
+  },
+  {
+    "term": "didn",
+    "score": 63.99163566023158,
+    "freq": 11
+  },
+  {
+    "term": "different",
+    "score": 63.12577326791053,
+    "freq": 15
+  },
+  {
+    "term": "able",
+    "score": 63.03223282833195,
+    "freq": 8
+  },
+  {
+    "term": "paying",
+    "score": 62.67238575217626,
+    "freq": 4
+  },
+  {
+    "term": "worst",
+    "score": 61.60632150318382,
+    "freq": 4
+  },
+  {
+    "term": "each",
+    "score": 61.375929876276366,
+    "freq": 6
+  },
+  {
+    "term": "having",
+    "score": 61.18158184127571,
+    "freq": 5
+  },
+  {
+    "term": "phone",
+    "score": 61.1555238407062,
+    "freq": 5
+  },
+  {
+    "term": "open",
+    "score": 61.06261892379255,
+    "freq": 9
+  },
+  {
+    "term": "specific",
+    "score": 60.76564390680701,
+    "freq": 6
+  },
+  {
+    "term": "address",
+    "score": 60.71658026838011,
+    "freq": 3
+  },
+  {
+    "term": "move",
+    "score": 60.27423571198774,
+    "freq": 5
+  },
+  {
+    "term": "dealing",
+    "score": 59.923769194408436,
+    "freq": 3
+  },
+  {
+    "term": "setup",
+    "score": 59.880771933421045,
+    "freq": 3
+  },
+  {
+    "term": "turns",
+    "score": 58.42166279469163,
+    "freq": 5
+  },
+  {
+    "term": "helped",
+    "score": 58.225407233222604,
+    "freq": 7
+  },
+  {
+    "term": "difficult",
+    "score": 58.061774581796705,
+    "freq": 4
+  },
+  {
+    "term": "quite",
+    "score": 58.012523981960925,
+    "freq": 3
+  },
+  {
+    "term": "stay",
+    "score": 57.50399674313943,
+    "freq": 4
+  },
+  {
+    "term": "stage",
+    "score": 57.322751981919396,
+    "freq": 13
+  },
+  {
+    "term": "took",
+    "score": 57.243104793486204,
+    "freq": 7
+  },
+  {
+    "term": "none",
+    "score": 57.08633086098625,
+    "freq": 3
+  },
+  {
+    "term": "kind",
+    "score": 57.080213206555925,
+    "freq": 7
+  },
+  {
+    "term": "gotten",
+    "score": 57.028829327645965,
+    "freq": 4
+  },
+  {
+    "term": "setting",
+    "score": 56.94961125975025,
+    "freq": 4
+  },
+  {
+    "term": "making",
+    "score": 56.87844688844662,
+    "freq": 10
+  },
+  {
+    "term": "limited",
+    "score": 56.86739132701621,
+    "freq": 4
+  },
+  {
+    "term": "brain",
+    "score": 56.815275325877195,
+    "freq": 4
+  },
+  {
+    "term": "pretty",
+    "score": 56.52389961235675,
+    "freq": 6
+  },
+  {
+    "term": "done",
+    "score": 56.29553817827064,
+    "freq": 7
+  },
+  {
+    "term": "felt",
+    "score": 56.28716346672106,
+    "freq": 8
+  },
+  {
+    "term": "startup",
+    "score": 55.52534550938196,
+    "freq": 13
+  },
+  {
+    "term": "potentially",
+    "score": 55.07990972198961,
+    "freq": 3
+  },
+  {
+    "term": "online",
+    "score": 54.72087545833231,
+    "freq": 11
+  },
+  {
+    "term": "quality",
+    "score": 54.493777673778425,
+    "freq": 8
+  },
+  {
+    "term": "system",
+    "score": 54.33500818562698,
+    "freq": 9
+  },
+  {
+    "term": "directly",
+    "score": 54.20242632776399,
+    "freq": 5
+  },
+  {
+    "term": "capital",
+    "score": 54.13168205306062,
+    "freq": 4
+  },
+  {
+    "term": "saying",
+    "score": 54.01293496199924,
+    "freq": 4
+  },
+  {
+    "term": "version",
+    "score": 53.85901287972699,
+    "freq": 3
+  },
+  {
+    "term": "wait",
+    "score": 53.28855533646448,
+    "freq": 2
+  },
+  {
+    "term": "smaller",
+    "score": 53.0860031888665,
+    "freq": 4
+  },
+  {
+    "term": "watch",
+    "score": 53.052989265151716,
+    "freq": 5
+  },
+  {
+    "term": "country",
+    "score": 52.28154019732406,
+    "freq": 5
+  },
+  {
+    "term": "side",
+    "score": 51.672298468974596,
+    "freq": 10
+  },
+  {
+    "term": "taking",
+    "score": 51.18306372429551,
+    "freq": 7
+  },
+  {
+    "term": "results",
+    "score": 51.02569443480375,
+    "freq": 6
+  },
+  {
+    "term": "maybe",
+    "score": 50.817978988439705,
+    "freq": 7
+  },
+  {
+    "term": "wasn",
+    "score": 50.78203090941409,
+    "freq": 6
+  },
+  {
+    "term": "ways",
+    "score": 50.614062082297835,
+    "freq": 4
+  },
+  {
+    "term": "questions",
+    "score": 50.24260529864196,
+    "freq": 9
+  },
+  {
+    "term": "common",
+    "score": 50.22360159386854,
+    "freq": 2
+  },
+  {
+    "term": "happening",
+    "score": 50.22360159386854,
+    "freq": 2
+  },
+  {
+    "term": "cost",
+    "score": 49.82528192722515,
+    "freq": 8
+  },
+  {
+    "term": "eventually",
+    "score": 49.59285692729477,
+    "freq": 5
+  },
+  {
+    "term": "world",
+    "score": 49.22700085313447,
+    "freq": 6
+  },
+  {
+    "term": "says",
+    "score": 49.1321347466652,
+    "freq": 4
+  },
+  {
+    "term": "creating",
+    "score": 48.94609429737187,
+    "freq": 9
+  },
+  {
+    "term": "offer",
+    "score": 48.89397829623285,
+    "freq": 9
+  },
+  {
+    "term": "sorted",
+    "score": 48.631845093030904,
+    "freq": 2
+  },
+  {
+    "term": "full",
+    "score": 48.48173767143551,
+    "freq": 7
+  },
+  {
+    "term": "community",
+    "score": 48.47012831329425,
+    "freq": 10
+  },
+  {
+    "term": "views",
+    "score": 48.30631951688992,
+    "freq": 2
+  },
+  {
+    "term": "corporate",
+    "score": 48.24898582406503,
+    "freq": 3
+  },
+  {
+    "term": "provide",
+    "score": 48.2271974082577,
+    "freq": 5
+  },
+  {
+    "term": "raise",
+    "score": 48.18154863179258,
+    "freq": 5
+  },
+  {
+    "term": "wouldn",
+    "score": 48.153283223400194,
+    "freq": 5
+  },
+  {
+    "term": "value",
+    "score": 48.06497855670859,
+    "freq": 8
+  },
+  {
+    "term": "name",
+    "score": 47.95848952767096,
+    "freq": 8
+  },
+  {
+    "term": "especially",
+    "score": 47.62159718472226,
+    "freq": 10
+  },
+  {
+    "term": "wish",
+    "score": 47.52269683423111,
+    "freq": 5
+  },
+  {
+    "term": "price",
+    "score": 47.39249127857616,
+    "freq": 5
+  },
+  {
+    "term": "type",
+    "score": 47.29043629227552,
+    "freq": 4
+  },
+  {
+    "term": "cofounder",
+    "score": 47.202181244520645,
+    "freq": 4
+  },
+  {
+    "term": "talking",
+    "score": 47.180392828713316,
+    "freq": 6
+  },
+  {
+    "term": "appreciate",
+    "score": 47.05450857562643,
+    "freq": 5
+  },
+  {
+    "term": "ecommerce",
+    "score": 46.90575265832022,
+    "freq": 3
+  },
+  {
+    "term": "minutes",
+    "score": 46.90575265832022,
+    "freq": 4
+  },
+  {
+    "term": "development",
+    "score": 46.840594755122524,
+    "freq": 6
+  },
+  {
+    "term": "reading",
+    "score": 46.840594755122524,
+    "freq": 8
+  },
+  {
+    "term": "entrepreneurs",
+    "score": 46.67153959037728,
+    "freq": 9
+  },
+  {
+    "term": "both",
+    "score": 46.425213058942795,
+    "freq": 7
+  },
+  {
+    "term": "home",
+    "score": 46.20246930634369,
+    "freq": 4
+  },
+  {
+    "term": "telling",
+    "score": 45.81182331755649,
+    "freq": 2
+  },
+  {
+    "term": "content",
+    "score": 45.672445645889965,
+    "freq": 11
+  },
+  {
+    "term": "comments",
+    "score": 45.66821421450654,
+    "freq": 5
+  },
+  {
+    "term": "given",
+    "score": 45.4887602349759,
+    "freq": 4
+  },
+  {
+    "term": "items",
+    "score": 45.358020296570565,
+    "freq": 2
+  },
+  {
+    "term": "resell",
+    "score": 45.358020296570565,
+    "freq": 2
+  },
+  {
+    "term": "ebay",
+    "score": 45.358020296570565,
+    "freq": 2
+  },
+  {
+    "term": "enjoy",
+    "score": 45.358020296570565,
+    "freq": 2
+  },
+  {
+    "term": "costs",
+    "score": 45.334838152703654,
+    "freq": 3
+  },
+  {
+    "term": "delivered",
+    "score": 45.17966022360953,
+    "freq": 2
+  },
+  {
+    "term": "three",
+    "score": 45.17966022360953,
+    "freq": 3
+  },
+  {
+    "term": "changed",
+    "score": 45.03605112055959,
+    "freq": 4
+  },
+  {
+    "term": "hustle",
+    "score": 44.838818083831534,
+    "freq": 5
+  },
+  {
+    "term": "seems",
+    "score": 44.71553553084912,
+    "freq": 4
+  },
+  {
+    "term": "monthly",
+    "score": 44.695899542067515,
+    "freq": 4
+  },
+  {
+    "term": "voice",
+    "score": 44.51999150726751,
+    "freq": 3
+  },
+  {
+    "term": "digital",
+    "score": 44.374970589214854,
+    "freq": 6
+  },
+  {
+    "term": "recommend",
+    "score": 44.32935290662128,
+    "freq": 2
+  },
+  {
+    "term": "zero",
+    "score": 44.31971351669346,
+    "freq": 5
+  },
+  {
+    "term": "mental",
+    "score": 44.21214559321275,
+    "freq": 4
+  },
+  {
+    "term": "annoying",
+    "score": 43.84548186362865,
+    "freq": 3
+  },
+  {
+    "term": "answers",
+    "score": 43.84268788280767,
+    "freq": 3
+  },
+  {
+    "term": "sell",
+    "score": 43.69796482115285,
+    "freq": 9
+  },
+  {
+    "term": "feedback",
+    "score": 43.66239003122687,
+    "freq": 8
+  },
+  {
+    "term": "understanding",
+    "score": 43.247159228594846,
+    "freq": 3
+  },
+  {
+    "term": "clients",
+    "score": 43.166530663406306,
+    "freq": 6
+  },
+  {
+    "term": "influence",
+    "score": 42.943058545501394,
+    "freq": 2
+  },
+  {
+    "term": "listed",
+    "score": 42.93200516461076,
+    "freq": 2
+  },
+  {
+    "term": "site",
+    "score": 42.74686957496054,
+    "freq": 3
+  },
+  {
+    "term": "seemed",
+    "score": 42.74686957496054,
+    "freq": 2
+  },
+  {
+    "term": "project",
+    "score": 42.74009405827136,
+    "freq": 6
+  },
+  {
+    "term": "happens",
+    "score": 42.42589906116476,
+    "freq": 4
+  },
+  {
+    "term": "operations",
+    "score": 42.32867085680899,
+    "freq": 3
+  },
+  {
+    "term": "seriously",
+    "score": 42.32867085680899,
+    "freq": 4
+  },
+  {
+    "term": "finished",
+    "score": 42.04694687771142,
+    "freq": 3
+  },
+  {
+    "term": "services",
+    "score": 41.95573097394423,
+    "freq": 7
+  },
+  {
+    "term": "owners",
+    "score": 41.58883083359672,
+    "freq": 5
+  },
+  {
+    "term": "background",
+    "score": 41.46435229203336,
+    "freq": 5
+  },
+  {
+    "term": "agent",
+    "score": 41.20159970677129,
+    "freq": 4
+  },
+  {
+    "term": "rate",
+    "score": 41.01400162356068,
+    "freq": 3
+  },
+  {
+    "term": "third",
+    "score": 40.877168037199915,
+    "freq": 2
+  },
+  {
+    "term": "question",
+    "score": 40.64151969923432,
+    "freq": 10
+  },
+  {
+    "term": "becomes",
+    "score": 40.55395746863598,
+    "freq": 5
+  },
+  {
+    "term": "sharing",
+    "score": 40.40681090305291,
+    "freq": 6
+  },
+  {
+    "term": "mostly",
+    "score": 40.3489428274776,
+    "freq": 4
+  },
+  {
+    "term": "priorities",
+    "score": 40.31407892631156,
+    "freq": 3
+  },
+  {
+    "term": "tired",
+    "score": 40.31407892631156,
+    "freq": 3
+  },
+  {
+    "term": "changing",
+    "score": 40.31407892631156,
+    "freq": 2
+  },
+  {
+    "term": "apparently",
+    "score": 40.31407892631156,
+    "freq": 2
+  },
+  {
+    "term": "within",
+    "score": 40.25569653980304,
+    "freq": 6
+  },
+  {
+    "term": "solutions",
+    "score": 40.17752253809452,
+    "freq": 4
+  },
+  {
+    "term": "seeing",
+    "score": 39.97665164849533,
+    "freq": 6
+  },
+  {
+    "term": "startups",
+    "score": 39.90943124153836,
+    "freq": 3
+  },
+  {
+    "term": "honest",
+    "score": 39.82111680693558,
+    "freq": 10
+  },
+  {
+    "term": "looked",
+    "score": 39.781423325795124,
+    "freq": 5
+  },
+  {
+    "term": "final",
+    "score": 39.62093174575161,
+    "freq": 2
+  },
+  {
+    "term": "media",
+    "score": 39.52971584198442,
+    "freq": 8
+  },
+  {
+    "term": "manually",
+    "score": 39.470824324156226,
+    "freq": 4
+  },
+  {
+    "term": "sense",
+    "score": 39.27435815547164,
+    "freq": 5
+  },
+  {
+    "term": "professional",
+    "score": 39.27435815547164,
+    "freq": 4
+  },
+  {
+    "term": "food",
+    "score": 39.20493066751177,
+    "freq": 4
+  },
+  {
+    "term": "found",
+    "score": 39.16358256968038,
+    "freq": 3
+  },
+  {
+    "term": "behind",
+    "score": 38.9598859602213,
+    "freq": 3
+  },
+  {
+    "term": "once",
+    "score": 38.89041776655173,
+    "freq": 6
+  },
+  {
+    "term": "sale",
+    "score": 38.832013599079275,
+    "freq": 2
+  },
+  {
+    "term": "overthinking",
+    "score": 38.7688090581223,
+    "freq": 3
+  },
+  {
+    "term": "live",
+    "score": 38.711046053673904,
+    "freq": 9
+  },
+  {
+    "term": "little",
+    "score": 38.594227073422516,
+    "freq": 6
+  },
+  {
+    "term": "changes",
+    "score": 38.58121097491169,
+    "freq": 3
+  },
+  {
+    "term": "goal",
+    "score": 38.48225549905032,
+    "freq": 8
+  },
+  {
+    "term": "account",
+    "score": 38.42654849097111,
+    "freq": 2
+  },
+  {
+    "term": "person",
+    "score": 38.41949419517504,
+    "freq": 6
+  },
+  {
+    "term": "test",
+    "score": 38.33841446282443,
+    "freq": 7
+  },
+  {
+    "term": "saas",
+    "score": 38.165209896671854,
+    "freq": 3
+  },
+  {
+    "term": "might",
+    "score": 38.12987044748616,
+    "freq": 5
+  },
+  {
+    "term": "outbound",
+    "score": 38.058471962466825,
+    "freq": 3
+  },
+  {
+    "term": "complete",
+    "score": 37.94695531217994,
+    "freq": 3
+  },
+  {
+    "term": "limit",
+    "score": 37.73340131041117,
+    "freq": 2
+  },
+  {
+    "term": "section",
+    "score": 37.62934545311157,
+    "freq": 2
+  },
+  {
+    "term": "website",
+    "score": 37.561281819271784,
+    "freq": 8
+  },
+  {
+    "term": "paper",
+    "score": 37.17800492568604,
+    "freq": 4
+  },
+  {
+    "term": "sometimes",
+    "score": 37.162083096533124,
+    "freq": 6
+  },
+  {
+    "term": "hire",
+    "score": 37.08337415995707,
+    "freq": 6
+  },
+  {
+    "term": "bored",
+    "score": 37.04025412985122,
+    "freq": 2
+  },
+  {
+    "term": "past",
+    "score": 36.95005824311261,
+    "freq": 5
+  },
+  {
+    "term": "damaging",
+    "score": 36.84834302351183,
+    "freq": 2
+  },
+  {
+    "term": "relationship",
+    "score": 36.84834302351183,
+    "freq": 2
+  },
+  {
+    "term": "late",
+    "score": 36.78735893689884,
+    "freq": 3
+  },
+  {
+    "term": "companies",
+    "score": 36.3970024960863,
+    "freq": 4
+  },
+  {
+    "term": "switch",
+    "score": 36.250071756925,
+    "freq": 2
+  },
+  {
+    "term": "energy",
+    "score": 36.245222601535566,
+    "freq": 3
+  },
+  {
+    "term": "additional",
+    "score": 36.15519584295188,
+    "freq": 2
+  },
+  {
+    "term": "exist",
+    "score": 36.011586739901944,
+    "freq": 2
+  },
+  {
+    "term": "takes",
+    "score": 36.00977136926088,
+    "freq": 7
+  },
+  {
+    "term": "demand",
+    "score": 35.928127380220374,
+    "freq": 5
+  },
+  {
+    "term": "scrolling",
+    "score": 35.88848526752689,
+    "freq": 3
+  },
+  {
+    "term": "usually",
+    "score": 35.88634133029512,
+    "freq": 5
+  },
+  {
+    "term": "expand",
+    "score": 35.76274683335455,
+    "freq": 5
+  },
+  {
+    "term": "charge",
+    "score": 35.55687320791809,
+    "freq": 3
+  },
+  {
+    "term": "feeling",
+    "score": 35.526945421301484,
+    "freq": 5
+  },
+  {
+    "term": "freelancing",
+    "score": 35.52094018022013,
+    "freq": 3
+  },
+  {
+    "term": "simply",
+    "score": 35.390115242505075,
+    "freq": 5
+  },
+  {
+    "term": "turning",
+    "score": 35.34837881151654,
+    "freq": 3
+  },
+  {
+    "term": "backend",
+    "score": 35.05062546092957,
+    "freq": 2
+  },
+  {
+    "term": "parts",
+    "score": 34.813787042196516,
+    "freq": 4
+  },
+  {
+    "term": "basically",
+    "score": 34.67849873992209,
+    "freq": 7
+  },
+  {
+    "term": "effectively",
+    "score": 34.67091006137562,
+    "freq": 3
+  },
+  {
+    "term": "concern",
+    "score": 34.67091006137562,
+    "freq": 3
+  },
+  {
+    "term": "called",
+    "score": 34.616701491451806,
+    "freq": 5
+  },
+  {
+    "term": "kinda",
+    "score": 34.54538745362506,
+    "freq": 3
+  },
+  {
+    "term": "video",
+    "score": 34.51932945305555,
+    "freq": 4
+  },
+  {
+    "term": "gave",
+    "score": 34.424463346586286,
+    "freq": 4
+  },
+  {
+    "term": "firm",
+    "score": 34.42232789155202,
+    "freq": 2
+  },
+  {
+    "term": "effort",
+    "score": 34.3967790223022,
+    "freq": 5
+  },
+  {
+    "term": "kinds",
+    "score": 34.18630689615394,
+    "freq": 3
+  },
+  {
+    "term": "mistakes",
+    "score": 34.04292078401336,
+    "freq": 3
+  },
+  {
+    "term": "manage",
+    "score": 33.97098736412649,
+    "freq": 6
+  },
+  {
+    "term": "cause",
+    "score": 33.78807222882027,
+    "freq": 2
+  },
+  {
+    "term": "risk",
+    "score": 33.752691218691474,
+    "freq": 4
+  },
+  {
+    "term": "uncertainty",
+    "score": 33.62691970577352,
+    "freq": 4
+  },
+  {
+    "term": "term",
+    "score": 33.59948428665682,
+    "freq": 6
+  },
+  {
+    "term": "optimization",
+    "score": 33.585571607942136,
+    "freq": 2
+  },
+  {
+    "term": "until",
+    "score": 33.58375623730107,
+    "freq": 4
+  },
+  {
+    "term": "failed",
+    "score": 33.522772150688084,
+    "freq": 3
+  },
+  {
+    "term": "reminders",
+    "score": 33.27106466687737,
+    "freq": 2
+  },
+  {
+    "term": "bill",
+    "score": 33.27106466687737,
+    "freq": 2
+  },
+  {
+    "term": "again",
+    "score": 33.27106466687737,
+    "freq": 4
+  },
+  {
+    "term": "terms",
+    "score": 33.20903207766679,
+    "freq": 4
+  },
+  {
+    "term": "workflows",
+    "score": 32.883833540051945,
+    "freq": 3
+  },
+  {
+    "term": "helping",
+    "score": 32.76717901777536,
+    "freq": 3
+  },
+  {
+    "term": "designer",
+    "score": 32.68945994015216,
+    "freq": 3
+  },
+  {
+    "term": "inside",
+    "score": 32.545850837102215,
+    "freq": 2
+  },
+  {
+    "term": "date",
+    "score": 32.545850837102215,
+    "freq": 2
+  },
+  {
+    "term": "understood",
+    "score": 32.49660241322652,
+    "freq": 2
+  },
+  {
+    "term": "difference",
+    "score": 32.49660241322652,
+    "freq": 2
+  },
+  {
+    "term": "ended",
+    "score": 32.41382991080621,
+    "freq": 4
+  },
+  {
+    "term": "public",
+    "score": 32.378090662905436,
+    "freq": 4
+  },
+  {
+    "term": "wondering",
+    "score": 32.256353394009366,
+    "freq": 6
+  },
+  {
+    "term": "figured",
+    "score": 32.25167044610499,
+    "freq": 5
+  },
+  {
+    "term": "along",
+    "score": 32.06725632052623,
+    "freq": 4
+  },
+  {
+    "term": "adjustment",
+    "score": 31.996312759592215,
+    "freq": 2
+  },
+  {
+    "term": "entire",
+    "score": 31.996312759592215,
+    "freq": 2
+  },
+  {
+    "term": "leaving",
+    "score": 31.996312759592215,
+    "freq": 2
+  },
+  {
+    "term": "apps",
+    "score": 31.937930373083702,
+    "freq": 5
+  },
+  {
+    "term": "finding",
+    "score": 31.920109754943162,
+    "freq": 3
+  },
+  {
+    "term": "currently",
+    "score": 31.898321339135837,
+    "freq": 5
+  },
+  {
+    "term": "totally",
+    "score": 31.85270365654227,
+    "freq": 2
+  },
+  {
+    "term": "party",
+    "score": 31.85270365654227,
+    "freq": 2
+  },
+  {
+    "term": "details",
+    "score": 31.584889558129838,
+    "freq": 2
+  },
+  {
+    "term": "level",
+    "score": 31.584889558129838,
+    "freq": 2
+  },
+  {
+    "term": "willing",
+    "score": 31.28961454565391,
+    "freq": 3
+  },
+  {
+    "term": "hearing",
+    "score": 31.22340813985863,
+    "freq": 4
+  },
+  {
+    "term": "lots",
+    "score": 31.15305815743688,
+    "freq": 3
+  },
+  {
+    "term": "pick",
+    "score": 30.95622151185957,
+    "freq": 5
+  },
+  {
+    "term": "burned",
+    "score": 30.887164500792423,
+    "freq": 2
+  },
+  {
+    "term": "brought",
+    "score": 30.887164500792423,
+    "freq": 2
+  },
+  {
+    "term": "whether",
+    "score": 30.887164500792423,
+    "freq": 2
+  },
+  {
+    "term": "school",
+    "score": 30.856507999511123,
+    "freq": 4
+  },
+  {
+    "term": "shop",
+    "score": 30.839318084415595,
+    "freq": 5
+  },
+  {
+    "term": "themselves",
+    "score": 30.52557801139431,
+    "freq": 5
+  },
+  {
+    "term": "yourself",
+    "score": 30.518802494705128,
+    "freq": 4
+  },
+  {
+    "term": "change",
+    "score": 30.51202697801595,
+    "freq": 6
+  },
+  {
+    "term": "heard",
+    "score": 30.512026978015946,
+    "freq": 3
+  },
+  {
+    "term": "follow",
+    "score": 30.341163885815554,
+    "freq": 5
+  },
+  {
+    "term": "limits",
+    "score": 30.341163885815554,
+    "freq": 3
+  },
+  {
+    "term": "structure",
+    "score": 30.339071317030758,
+    "freq": 3
+  },
+  {
+    "term": "launching",
+    "score": 30.334388369126373,
+    "freq": 3
+  },
+  {
+    "term": "went",
+    "score": 30.33438836912637,
+    "freq": 4
+  },
+  {
+    "term": "next",
+    "score": 30.258391383395246,
+    "freq": 8
+  },
+  {
+    "term": "second",
+    "score": 30.081683751165052,
+    "freq": 4
+  },
+  {
+    "term": "quietly",
+    "score": 30.0790306826136,
+    "freq": 3
+  },
+  {
+    "term": "burn",
+    "score": 30.063811764577533,
+    "freq": 2
+  },
+  {
+    "term": "phase",
+    "score": 29.925617731661028,
+    "freq": 3
+  },
+  {
+    "term": "lessons",
+    "score": 29.91060483254288,
+    "freq": 4
+  },
+  {
+    "term": "times",
+    "score": 29.893184013117434,
+    "freq": 3
+  },
+  {
+    "term": "practice",
+    "score": 29.82565531414518,
+    "freq": 3
+  },
+  {
+    "term": "leads",
+    "score": 29.82565531414518,
+    "freq": 5
+  },
+  {
+    "term": "carry",
+    "score": 29.818879797456002,
+    "freq": 2
+  },
+  {
+    "term": "situations",
+    "score": 29.818879797456002,
+    "freq": 2
+  },
+  {
+    "term": "grade",
+    "score": 29.757895710843012,
+    "freq": 4
+  },
+  {
+    "term": "ideally",
+    "score": 29.740705795747488,
+    "freq": 3
+  },
+  {
+    "term": "issue",
+    "score": 29.64592413647081,
+    "freq": 3
+  },
+  {
+    "term": "launch",
+    "score": 29.269573653121945,
+    "freq": 6
+  },
+  {
+    "term": "invoicing",
+    "score": 29.15887442617003,
+    "freq": 2
+  },
+  {
+    "term": "realize",
+    "score": 29.15887442617003,
+    "freq": 2
+  },
+  {
+    "term": "happened",
+    "score": 29.15887442617003,
+    "freq": 2
+  },
+  {
+    "term": "coding",
+    "score": 29.135129222897685,
+    "freq": 6
+  },
+  {
+    "term": "couldn",
+    "score": 29.12573261689606,
+    "freq": 4
+  },
+  {
+    "term": "wanna",
+    "score": 29.06474853028307,
+    "freq": 2
+  },
+  {
+    "term": "validation",
+    "score": 29.04546604640274,
+    "freq": 2
+  },
+  {
+    "term": "topics",
+    "score": 28.798441510496417,
+    "freq": 3
+  },
+  {
+    "term": "link",
+    "score": 28.727043025477073,
+    "freq": 5
+  },
+  {
+    "term": "inbound",
+    "score": 28.720267508787895,
+    "freq": 2
+  },
+  {
+    "term": "clean",
+    "score": 28.720267508787895,
+    "freq": 2
+  },
+  {
+    "term": "package",
+    "score": 28.720267508787895,
+    "freq": 2
+  },
+  {
+    "term": "mail",
+    "score": 28.720267508787895,
+    "freq": 2
+  },
+  {
+    "term": "missed",
+    "score": 28.720267508787895,
+    "freq": 2
+  },
+  {
+    "term": "model",
+    "score": 28.651459402888136,
+    "freq": 3
+  },
+  {
+    "term": "away",
+    "score": 28.60829593441569,
+    "freq": 4
+  },
+  {
+    "term": "motivation",
+    "score": 28.44759833545426,
+    "freq": 3
+  },
+  {
+    "term": "suffers",
+    "score": 28.43258543633611,
+    "freq": 2
+  },
+  {
+    "term": "politics",
+    "score": 28.43258543633611,
+    "freq": 2
+  },
+  {
+    "term": "outcomes",
+    "score": 28.413302952455783,
+    "freq": 2
+  },
+  {
+    "term": "reach",
+    "score": 28.2945558613944,
+    "freq": 4
+  },
+  {
+    "term": "expense",
+    "score": 28.24119650783751,
+    "freq": 2
+  },
+  {
+    "term": "skills",
+    "score": 28.19024384833417,
+    "freq": 5
+  },
+  {
+    "term": "stand",
+    "score": 28.15167888057351,
+    "freq": 3
+  },
+  {
+    "term": "realistic",
+    "score": 28.15116974925383,
+    "freq": 2
+  },
+  {
+    "term": "local",
+    "score": 28.086011846056138,
+    "freq": 5
+  },
+  {
+    "term": "makes",
+    "score": 28.086011846056138,
+    "freq": 5
+  },
+  {
+    "term": "finally",
+    "score": 27.901597720477387,
+    "freq": 3
+  },
+  {
+    "term": "phones",
+    "score": 27.88445917382883,
+    "freq": 2
+  },
+  {
+    "term": "calls",
+    "score": 27.88445917382883,
+    "freq": 3
+  },
+  {
+    "term": "voip",
+    "score": 27.88445917382883,
+    "freq": 2
+  },
+  {
+    "term": "practical",
+    "score": 27.779047289724033,
+    "freq": 4
+  },
+  {
+    "term": "drop",
+    "score": 27.758720739656496,
+    "freq": 3
+  },
+  {
+    "term": "servers",
+    "score": 27.758720739656496,
+    "freq": 2
+  },
+  {
+    "term": "worth",
+    "score": 27.73734568699137,
+    "freq": 5
+  },
+  {
+    "term": "friends",
+    "score": 27.694182218518925,
+    "freq": 5
+  },
+  {
+    "term": "constantly",
+    "score": 27.6938205731826,
+    "freq": 2
+  },
+  {
+    "term": "winners",
+    "score": 27.6938205731826,
+    "freq": 2
+  },
+  {
+    "term": "stayed",
+    "score": 27.631021115928547,
+    "freq": 2
+  },
+  {
+    "term": "margins",
+    "score": 27.631021115928547,
+    "freq": 2
+  },
+  {
+    "term": "survive",
+    "score": 27.631021115928547,
+    "freq": 2
+  },
+  {
+    "term": "extension",
+    "score": 27.51436659365196,
+    "freq": 3
+  },
+  {
+    "term": "applied",
+    "score": 27.51436659365196,
+    "freq": 2
+  },
+  {
+    "term": "suggestions",
+    "score": 27.412147149376523,
+    "freq": 3
+  },
+  {
+    "term": "expensive",
+    "score": 27.386089148807017,
+    "freq": 4
+  },
+  {
+    "term": "income",
+    "score": 27.366806664926692,
+    "freq": 3
+  },
+  {
+    "term": "goes",
+    "score": 27.157463052158228,
+    "freq": 3
+  },
+  {
+    "term": "fail",
+    "score": 27.130731462294243,
+    "freq": 2
+  },
+  {
+    "term": "mind",
+    "score": 27.098407076355237,
+    "freq": 3
+  },
+  {
+    "term": "such",
+    "score": 27.04629107521622,
+    "freq": 5
+  },
+  {
+    "term": "fancy",
+    "score": 26.99208250529241,
+    "freq": 3
+  },
+  {
+    "term": "planning",
+    "score": 26.74505796938608,
+    "freq": 3
+  },
+  {
+    "term": "following",
+    "score": 26.69971748493625,
+    "freq": 4
+  },
+  {
+    "term": "fairly",
+    "score": 26.68616645155789,
+    "freq": 3
+  },
+  {
+    "term": "pricing",
+    "score": 26.591300345088627,
+    "freq": 4
+  },
+  {
+    "term": "together",
+    "score": 26.45601204281421,
+    "freq": 4
+  },
+  {
+    "term": "tested",
+    "score": 26.372426378536602,
+    "freq": 3
+  },
+  {
+    "term": "health",
+    "score": 26.353143894656277,
+    "freq": 4
+  },
+  {
+    "term": "stuck",
+    "score": 26.29893532473247,
+    "freq": 4
+  },
+  {
+    "term": "whenever",
+    "score": 26.292159808043287,
+    "freq": 2
+  },
+  {
+    "term": "uses",
+    "score": 26.292159808043287,
+    "freq": 2
+  },
+  {
+    "term": "target",
+    "score": 26.11757782334351,
+    "freq": 4
+  },
+  {
+    "term": "fulfillment",
+    "score": 26.02158320349445,
+    "freq": 2
+  },
+  {
+    "term": "head",
+    "score": 26.02158320349445,
+    "freq": 2
+  },
+  {
+    "term": "ourselves",
+    "score": 25.999794787687126,
+    "freq": 2
+  },
+  {
+    "term": "multiple",
+    "score": 25.980512303806798,
+    "freq": 3
+  },
+  {
+    "term": "receive",
+    "score": 25.97373678711762,
+    "freq": 2
+  },
+  {
+    "term": "broke",
+    "score": 25.90492868121786,
+    "freq": 3
+  },
+  {
+    "term": "relationships",
+    "score": 25.90492868121786,
+    "freq": 2
+  },
+  {
+    "term": "important",
+    "score": 25.799967964275133,
+    "freq": 4
+  },
+  {
+    "term": "connections",
+    "score": 25.74494623249403,
+    "freq": 6
+  },
+  {
+    "term": "vibe",
+    "score": 25.67721733938473,
+    "freq": 4
+  },
+  {
+    "term": "annual",
+    "score": 25.646445680717974,
+    "freq": 3
+  },
+  {
+    "term": "interesting",
+    "score": 25.64330460933559,
+    "freq": 3
+  },
+  {
+    "term": "added",
+    "score": 25.584413091507393,
+    "freq": 4
+  },
+  {
+    "term": "came",
+    "score": 25.584413091507393,
+    "freq": 4
+  },
+  {
+    "term": "interest",
+    "score": 25.398372642214056,
+    "freq": 5
+  },
+  {
+    "term": "positive",
+    "score": 25.328436022934504,
+    "freq": 3
+  },
+  {
+    "term": "designed",
+    "score": 25.268082639366526,
+    "freq": 3
+  },
+  {
+    "term": "pattern",
+    "score": 25.032516568053754,
+    "freq": 3
+  },
+  {
+    "term": "spending",
+    "score": 25.0189655346754,
+    "freq": 3
+  },
+  {
+    "term": "students",
+    "score": 24.971532481440768,
+    "freq": 4
+  },
+  {
+    "term": "college",
+    "score": 24.967618582119634,
+    "freq": 4
+  },
+  {
+    "term": "kept",
+    "score": 24.966849533536386,
+    "freq": 3
+  },
+  {
+    "term": "task",
+    "score": 24.953298500158027,
+    "freq": 2
+  },
+  {
+    "term": "keeps",
+    "score": 24.953298500158027,
+    "freq": 3
+  },
+  {
+    "term": "angle",
+    "score": 24.953298500158027,
+    "freq": 2
+  },
+  {
+    "term": "runs",
+    "score": 24.77292816349534,
+    "freq": 4
+  },
+  {
+    "term": "support",
+    "score": 24.7081311922962,
+    "freq": 3
+  },
+  {
+    "term": "games",
+    "score": 24.58744242599773,
+    "freq": 3
+  },
+  {
+    "term": "group",
+    "score": 24.52371706671745,
+    "freq": 3
+  },
+  {
+    "term": "smoothly",
+    "score": 24.449412851056017,
+    "freq": 2
+  },
+  {
+    "term": "five",
+    "score": 24.449412851056017,
+    "freq": 2
+  },
+  {
+    "term": "posts",
+    "score": 24.387615602585733,
+    "freq": 6
+  },
+  {
+    "term": "degrees",
+    "score": 23.933904279385644,
+    "freq": 2
+  },
+  {
+    "term": "management",
+    "score": 23.91357772931811,
+    "freq": 4
+  },
+  {
+    "term": "till",
+    "score": 23.872920192772657,
+    "freq": 2
+  },
+  {
+    "term": "tetr",
+    "score": 23.869006293451523,
+    "freq": 3
+  },
+  {
+    "term": "projects",
+    "score": 23.808381671635086,
+    "freq": 4
+  },
+  {
+    "term": "future",
+    "score": 23.6915626913837,
+    "freq": 4
+  },
+  {
+    "term": "skill",
+    "score": 23.56700413903814,
+    "freq": 2
+  },
+  {
+    "term": "allow",
+    "score": 23.54772165515781,
+    "freq": 3
+  },
+  {
+    "term": "form",
+    "score": 23.48399629587753,
+    "freq": 4
+  },
+  {
+    "term": "pressure",
+    "score": 23.41813548156299,
+    "freq": 2
+  },
+  {
+    "term": "audience",
+    "score": 23.358540134482084,
+    "freq": 5
+  },
+  {
+    "term": "owner",
+    "score": 23.227206065447344,
+    "freq": 3
+  },
+  {
+    "term": "filing",
+    "score": 23.220430548758163,
+    "freq": 3
+  },
+  {
+    "term": "workflow",
+    "score": 22.83529199071754,
+    "freq": 4
+  },
+  {
+    "term": "automate",
+    "score": 22.828516474028362,
+    "freq": 4
+  },
+  {
+    "term": "records",
+    "score": 22.52728336819822,
+    "freq": 2
+  },
+  {
+    "term": "terrible",
+    "score": 22.52155191769625,
+    "freq": 2
+  },
+  {
+    "term": "functional",
+    "score": 22.52155191769625,
+    "freq": 2
+  },
+  {
+    "term": "super",
+    "score": 22.39602930994569,
+    "freq": 3
+  },
+  {
+    "term": "trading",
+    "score": 22.3089872227632,
+    "freq": 2
+  },
+  {
+    "term": "scaling",
+    "score": 22.180709777918246,
+    "freq": 3
+  },
+  {
+    "term": "status",
+    "score": 22.135369293468415,
+    "freq": 3
+  },
+  {
+    "term": "suddenly",
+    "score": 22.07261524476606,
+    "freq": 3
+  },
+  {
+    "term": "solid",
+    "score": 22.068738203546047,
+    "freq": 4
+  },
+  {
+    "term": "invite",
+    "score": 22.016622202407028,
+    "freq": 2
+  },
+  {
+    "term": "covered",
+    "score": 22.016622202407028,
+    "freq": 2
+  },
+  {
+    "term": "truly",
+    "score": 21.923324741951213,
+    "freq": 3
+  },
+  {
+    "term": "expenses",
+    "score": 21.86270012013478,
+    "freq": 2
+  },
+  {
+    "term": "posting",
+    "score": 21.86270012013478,
+    "freq": 2
+  },
+  {
+    "term": "bring",
+    "score": 21.553229631875674,
+    "freq": 5
+  },
+  {
+    "term": "neighbors",
+    "score": 21.50111363073666,
+    "freq": 2
+  },
+  {
+    "term": "knew",
+    "score": 21.50111363073666,
+    "freq": 3
+  },
+  {
+    "term": "crisis",
+    "score": 21.50111363073666,
+    "freq": 2
+  },
+  {
+    "term": "greatly",
+    "score": 21.487562597358302,
+    "freq": 2
+  },
+  {
+    "term": "sounds",
+    "score": 21.487562597358302,
+    "freq": 3
+  },
+  {
+    "term": "device",
+    "score": 21.422939629028143,
+    "freq": 2
+  },
+  {
+    "term": "reason",
+    "score": 21.154540040456688,
+    "freq": 4
+  },
+  {
+    "term": "intentionally",
+    "score": 21.121706523198,
+    "freq": 2
+  },
+  {
+    "term": "mistake",
+    "score": 21.105014418437257,
+    "freq": 2
+  },
+  {
+    "term": "scale",
+    "score": 21.105014418437257,
+    "freq": 2
+  },
+  {
+    "term": "lately",
+    "score": 20.972269852109704,
+    "freq": 2
+  },
+  {
+    "term": "releasing",
+    "score": 20.922692861643302,
+    "freq": 2
+  },
+  {
+    "term": "parents",
+    "score": 20.873633484694082,
+    "freq": 2
+  },
+  {
+    "term": "becoming",
+    "score": 20.873633484694082,
+    "freq": 2
+  },
+  {
+    "term": "order",
+    "score": 20.860082451315726,
+    "freq": 3
+  },
+  {
+    "term": "resources",
+    "score": 20.807966450176714,
+    "freq": 2
+  },
+  {
+    "term": "ship",
+    "score": 20.79441541679836,
+    "freq": 3
+  },
+  {
+    "term": "must",
+    "score": 20.79441541679836,
+    "freq": 2
+  },
+  {
+    "term": "state",
+    "score": 20.79441541679836,
+    "freq": 2
+  },
+  {
+    "term": "however",
+    "score": 20.79441541679836,
+    "freq": 2
+  },
+  {
+    "term": "founder",
+    "score": 20.741335360254347,
+    "freq": 8
+  },
+  {
+    "term": "position",
+    "score": 20.454617343207563,
+    "freq": 3
+  },
+  {
+    "term": "forever",
+    "score": 20.407184289972932,
+    "freq": 3
+  },
+  {
+    "term": "bigger",
+    "score": 20.407184289972932,
+    "freq": 2
+  },
+  {
+    "term": "decide",
+    "score": 20.400408773283754,
+    "freq": 3
+  },
+  {
+    "term": "storytelling",
+    "score": 20.283754251007167,
+    "freq": 3
+  },
+  {
+    "term": "couple",
+    "score": 20.225826788583973,
+    "freq": 4
+  },
+  {
+    "term": "completely",
+    "score": 20.173710787444964,
+    "freq": 4
+  },
+  {
+    "term": "videos",
+    "score": 20.101268236238415,
+    "freq": 4
+  },
+  {
+    "term": "structural",
+    "score": 20.081985752358083,
+    "freq": 2
+  },
+  {
+    "term": "fair",
+    "score": 20.006402129769146,
+    "freq": 2
+  },
+  {
+    "term": "destroy",
+    "score": 19.775021196025975,
+    "freq": 2
+  },
+  {
+    "term": "feeds",
+    "score": 19.775021196025975,
+    "freq": 2
+  },
+  {
+    "term": "matches",
+    "score": 19.775021196025975,
+    "freq": 2
+  },
+  {
+    "term": "attention",
+    "score": 19.768245679336797,
+    "freq": 3
+  },
+  {
+    "term": "present",
+    "score": 19.768245679336797,
+    "freq": 3
+  },
+  {
+    "term": "tried",
+    "score": 19.761470162647615,
+    "freq": 4
+  },
+  {
+    "term": "scenario",
+    "score": 19.709354161508607,
+    "freq": 2
+  },
+  {
+    "term": "exactly",
+    "score": 19.707261592723807,
+    "freq": 4
+  },
+  {
+    "term": "career",
+    "score": 19.600079746529644,
+    "freq": 5
+  },
+  {
+    "term": "entrepreneurial",
+    "score": 19.583831553758046,
+    "freq": 2
+  },
+  {
+    "term": "decade",
+    "score": 19.583831553758046,
+    "freq": 2
+  },
+  {
+    "term": "welcome",
+    "score": 19.583831553758046,
+    "freq": 2
+  },
+  {
+    "term": "launched",
+    "score": 19.54413807261759,
+    "freq": 4
+  },
+  {
+    "term": "concept",
+    "score": 19.52590409133485,
+    "freq": 4
+  },
+  {
+    "term": "journey",
+    "score": 19.49557650600316,
+    "freq": 2
+  },
+  {
+    "term": "nearly",
+    "score": 19.44095457293715,
+    "freq": 2
+  },
+  {
+    "term": "example",
+    "score": 19.44095457293715,
+    "freq": 3
+  },
+  {
+    "term": "passive",
+    "score": 19.44095457293715,
+    "freq": 2
+  },
+  {
+    "term": "trust",
+    "score": 19.38883857179814,
+    "freq": 2
+  },
+  {
+    "term": "perspectives",
+    "score": 19.38883857179814,
+    "freq": 2
+  },
+  {
+    "term": "copy",
+    "score": 19.343582534540896,
+    "freq": 3
+  },
+  {
+    "term": "youtube",
+    "score": 19.127214499915866,
+    "freq": 5
+  },
+  {
+    "term": "become",
+    "score": 19.075098498776853,
+    "freq": 2
+  },
+  {
+    "term": "solved",
+    "score": 19.075098498776853,
+    "freq": 3
+  },
+  {
+    "term": "falls",
+    "score": 19.075098498776853,
+    "freq": 2
+  },
+  {
+    "term": "momentum",
+    "score": 19.068322982087672,
+    "freq": 3
+  },
+  {
+    "term": "register",
+    "score": 19.061547465398494,
+    "freq": 3
+  },
+  {
+    "term": "familiar",
+    "score": 19.061547465398494,
+    "freq": 4
+  },
+  {
+    "term": "grew",
+    "score": 19.0037844609501,
+    "freq": 3
+  },
+  {
+    "term": "feed",
+    "score": 18.816380157536667,
+    "freq": 4
+  },
+  {
+    "term": "instant",
+    "score": 18.812965295574898,
+    "freq": 2
+  },
+  {
+    "term": "neighborhoods",
+    "score": 18.802429325443217,
+    "freq": 2
+  },
+  {
+    "term": "store",
+    "score": 18.747807392377208,
+    "freq": 4
+  },
+  {
+    "term": "return",
+    "score": 18.676408907357867,
+    "freq": 2
+  },
+  {
+    "term": "apply",
+    "score": 18.674316338573067,
+    "freq": 2
+  },
+  {
+    "term": "folks",
+    "score": 18.674316338573067,
+    "freq": 2
+  },
+  {
+    "term": "page",
+    "score": 18.61486056405498,
+    "freq": 7
+  },
+  {
+    "term": "commerce",
+    "score": 18.42729180266674,
+    "freq": 2
+  },
+  {
+    "term": "seem",
+    "score": 18.035377727936936,
+    "freq": 4
+  },
+  {
+    "term": "tracking",
+    "score": 18.035377727936933,
+    "freq": 5
+  },
+  {
+    "term": "active",
+    "score": 18.035377727936933,
+    "freq": 4
+  },
+  {
+    "term": "worry",
+    "score": 18.035377727936933,
+    "freq": 2
+  },
+  {
+    "term": "range",
+    "score": 18.035377727936933,
+    "freq": 2
+  },
+  {
+    "term": "concerned",
+    "score": 18.035377727936933,
+    "freq": 2
+  },
+  {
+    "term": "family",
+    "score": 17.97083920679936,
+    "freq": 3
+  },
+  {
+    "term": "longer",
+    "score": 17.90985512018637,
+    "freq": 3
+  },
+  {
+    "term": "million",
+    "score": 17.85773911904736,
+    "freq": 4
+  },
+  {
+    "term": "instantly",
+    "score": 17.745603086700356,
+    "freq": 3
+  },
+  {
+    "term": "discord",
+    "score": 17.71486213822647,
+    "freq": 2
+  },
+  {
+    "term": "genuine",
+    "score": 17.70808662153729,
+    "freq": 3
+  },
+  {
+    "term": "shopify",
+    "score": 17.708086621537287,
+    "freq": 3
+  },
+  {
+    "term": "alive",
+    "score": 17.703817036775106,
+    "freq": 2
+  },
+  {
+    "term": "editing",
+    "score": 17.675253104278607,
+    "freq": 2
+  },
+  {
+    "term": "surface",
+    "score": 17.675253104278607,
+    "freq": 2
+  },
+  {
+    "term": "knowledge",
+    "score": 17.675253104278607,
+    "freq": 2
+  },
+  {
+    "term": "considering",
+    "score": 17.675253104278603,
+    "freq": 3
+  },
+  {
+    "term": "goals",
+    "score": 17.65597062039828,
+    "freq": 2
+  },
+  {
+    "term": "conversions",
+    "score": 17.655970620398275,
+    "freq": 2
+  },
+  {
+    "term": "groups",
+    "score": 17.41653476303842,
+    "freq": 3
+  },
+  {
+    "term": "town",
+    "score": 17.34223054737699,
+    "freq": 2
+  },
+  {
+    "term": "band",
+    "score": 17.34223054737699,
+    "freq": 2
+  },
+  {
+    "term": "strangers",
+    "score": 17.34223054737699,
+    "freq": 2
+  },
+  {
+    "term": "raising",
+    "score": 17.335455030687807,
+    "freq": 3
+  },
+  {
+    "term": "necessary",
+    "score": 17.32867951399863,
+    "freq": 3
+  },
+  {
+    "term": "stalled",
+    "score": 17.32867951399863,
+    "freq": 3
+  },
+  {
+    "term": "awarded",
+    "score": 17.157816421798238,
+    "freq": 2
+  },
+  {
+    "term": "wrote",
+    "score": 17.0284904743557,
+    "freq": 2
+  },
+  {
+    "term": "either",
+    "score": 17.0284904743557,
+    "freq": 2
+  },
+  {
+    "term": "effective",
+    "score": 17.0284904743557,
+    "freq": 2
+  },
+  {
+    "term": "validate",
+    "score": 17.02171495766652,
+    "freq": 2
+  },
+  {
+    "term": "enter",
+    "score": 16.96753709793558,
+    "freq": 2
+  },
+  {
+    "term": "fill",
+    "score": 16.936765439268825,
+    "freq": 3
+  },
+  {
+    "term": "loneliness",
+    "score": 16.75622109973716,
+    "freq": 2
+  },
+  {
+    "term": "choices",
+    "score": 16.70970798863348,
+    "freq": 2
+  },
+  {
+    "term": "smart",
+    "score": 16.69442385126688,
+    "freq": 4
+  },
+  {
+    "term": "point",
+    "score": 16.694423851266876,
+    "freq": 7
+  },
+  {
+    "term": "putting",
+    "score": 16.642307850127864,
+    "freq": 2
+  },
+  {
+    "term": "notepad",
+    "score": 16.635532333438686,
+    "freq": 2
+  },
+  {
+    "term": "notes",
+    "score": 16.635532333438686,
+    "freq": 2
+  },
+  {
+    "term": "automatically",
+    "score": 16.635532333438686,
+    "freq": 3
+  },
+  {
+    "term": "click",
+    "score": 16.635532333438686,
+    "freq": 2
+  },
+  {
+    "term": "integrations",
+    "score": 16.635532333438686,
+    "freq": 2
+  },
+  {
+    "term": "during",
+    "score": 16.635532333438686,
+    "freq": 2
+  },
+  {
+    "term": "headache",
+    "score": 16.635532333438686,
+    "freq": 2
+  },
+  {
+    "term": "middle",
+    "score": 16.635532333438686,
+    "freq": 3
+  },
+  {
+    "term": "chatgpt",
+    "score": 16.328567777106578,
+    "freq": 3
+  },
+  {
+    "term": "selling",
+    "score": 16.321792260417396,
+    "freq": 5
+  },
+  {
+    "term": "control",
+    "score": 16.24361825870888,
+    "freq": 2
+  },
+  {
+    "term": "labels",
+    "score": 16.24361825870888,
+    "freq": 2
+  },
+  {
+    "term": "mainly",
+    "score": 16.24361825870888,
+    "freq": 2
+  },
+  {
+    "term": "step",
+    "score": 16.24361825870888,
+    "freq": 2
+  },
+  {
+    "term": "bounce",
+    "score": 16.24152568992408,
+    "freq": 2
+  },
+  {
+    "term": "niches",
+    "score": 16.24152568992408,
+    "freq": 2
+  },
+  {
+    "term": "several",
+    "score": 16.118095650958317,
+    "freq": 2
+  },
+  {
+    "term": "jobs",
+    "score": 16.048874181916368,
+    "freq": 5
+  },
+  {
+    "term": "patterns",
+    "score": 16.00805218739611,
+    "freq": 2
+  },
+  {
+    "term": "recent",
+    "score": 16.00805218739611,
+    "freq": 3
+  },
+  {
+    "term": "decision",
+    "score": 16.003009774695176,
+    "freq": 4
+  },
+  {
+    "term": "aspect",
+    "score": 15.975218670137426,
+    "freq": 2
+  },
+  {
+    "term": "tiktok",
+    "score": 15.942385152878742,
+    "freq": 2
+  },
+  {
+    "term": "brings",
+    "score": 15.942385152878742,
+    "freq": 3
+  },
+  {
+    "term": "lacks",
+    "score": 15.942385152878742,
+    "freq": 2
+  },
+  {
+    "term": "night",
+    "score": 15.942385152878742,
+    "freq": 2
+  },
+  {
+    "term": "auto",
+    "score": 15.929878185687592,
+    "freq": 2
+  },
+  {
+    "term": "access",
+    "score": 15.929878185687592,
+    "freq": 2
+  },
+  {
+    "term": "buying",
+    "score": 15.923102668998414,
+    "freq": 3
+  },
+  {
+    "term": "opportunity",
+    "score": 15.694312114374824,
+    "freq": 3
+  },
+  {
+    "term": "simpler",
+    "score": 15.609362595977124,
+    "freq": 2
+  },
+  {
+    "term": "identity",
+    "score": 15.609362595977124,
+    "freq": 2
+  },
+  {
+    "term": "load",
+    "score": 15.609362595977124,
+    "freq": 3
+  },
+  {
+    "term": "apart",
+    "score": 15.609362595977124,
+    "freq": 2
+  },
+  {
+    "term": "focused",
+    "score": 15.609362595977124,
+    "freq": 3
+  },
+  {
+    "term": "beyond",
+    "score": 15.609362595977124,
+    "freq": 2
+  },
+  {
+    "term": "consuming",
+    "score": 15.609362595977124,
+    "freq": 2
+  },
+  {
+    "term": "certain",
+    "score": 15.609362595977124,
+    "freq": 2
+  },
+  {
+    "term": "performance",
+    "score": 15.609362595977124,
+    "freq": 2
+  },
+  {
+    "term": "stood",
+    "score": 15.609362595977124,
+    "freq": 2
+  },
+  {
+    "term": "brand",
+    "score": 15.602587079287947,
+    "freq": 5
+  },
+  {
+    "term": "checks",
+    "score": 15.602587079287947,
+    "freq": 3
+  },
+  {
+    "term": "remotely",
+    "score": 15.602587079287947,
+    "freq": 2
+  },
+  {
+    "term": "introduce",
+    "score": 15.602587079287947,
+    "freq": 2
+  },
+  {
+    "term": "staff",
+    "score": 15.595811562598769,
+    "freq": 3
+  },
+  {
+    "term": "handles",
+    "score": 15.548378509364136,
+    "freq": 3
+  },
+  {
+    "term": "conversation",
+    "score": 15.424948470398373,
+    "freq": 4
+  },
+  {
+    "term": "known",
+    "score": 15.424948470398373,
+    "freq": 3
+  },
+  {
+    "term": "involved",
+    "score": 15.424948470398373,
+    "freq": 2
+  },
+  {
+    "term": "highlight",
+    "score": 15.424948470398373,
+    "freq": 2
+  },
+  {
+    "term": "replace",
+    "score": 15.424948470398373,
+    "freq": 3
+  },
+  {
+    "term": "industry",
+    "score": 15.380572041353538,
+    "freq": 5
+  },
+  {
+    "term": "books",
+    "score": 15.380572041353537,
+    "freq": 2
+  },
+  {
+    "term": "heavy",
+    "score": 15.35572700135642,
+    "freq": 2
+  },
+  {
+    "term": "directions",
+    "score": 15.282071489577483,
+    "freq": 2
+  },
+  {
+    "term": "instagram",
+    "score": 15.249237972318797,
+    "freq": 3
+  },
+  {
+    "term": "philosophy",
+    "score": 15.249237972318797,
+    "freq": 2
+  },
+  {
+    "term": "game",
+    "score": 15.229955488438469,
+    "freq": 3
+  },
+  {
+    "term": "broken",
+    "score": 15.229955488438467,
+    "freq": 2
+  },
+  {
+    "term": "https",
+    "score": 15.111208397377084,
+    "freq": 3
+  },
+  {
+    "term": "experiment",
+    "score": 15.111208397377084,
+    "freq": 2
+  },
+  {
+    "term": "preview",
+    "score": 15.111208397377084,
+    "freq": 2
+  },
+  {
+    "term": "funds",
+    "score": 15.0783748801184,
+    "freq": 3
+  },
+  {
+    "term": "platforms",
+    "score": 14.9943894171257,
+    "freq": 6
+  },
+  {
+    "term": "enterprise",
+    "score": 14.975106933245373,
+    "freq": 4
+  },
+  {
+    "term": "aware",
+    "score": 14.975106933245371,
+    "freq": 2
+  },
+  {
+    "term": "faster",
+    "score": 14.933436040705578,
+    "freq": 3
+  },
+  {
+    "term": "builds",
+    "score": 14.909439898728001,
+    "freq": 3
+  },
+  {
+    "term": "productivity",
+    "score": 14.909439898728001,
+    "freq": 2
+  },
+  {
+    "term": "scene",
+    "score": 14.909439898728,
+    "freq": 2
+  },
+  {
+    "term": "useful",
+    "score": 14.902664382038823,
+    "freq": 4
+  },
+  {
+    "term": "helps",
+    "score": 14.902664382038822,
+    "freq": 4
+  },
+  {
+    "term": "field",
+    "score": 14.28195975268543,
+    "freq": 2
+  },
+  {
+    "term": "turn",
+    "score": 14.281959752685427,
+    "freq": 2
+  },
+  {
+    "term": "narrow",
+    "score": 14.281959752685427,
+    "freq": 3
+  },
+  {
+    "term": "creative",
+    "score": 14.268408719307072,
+    "freq": 4
+  },
+  {
+    "term": "definitely",
+    "score": 14.268408719307068,
+    "freq": 3
+  },
+  {
+    "term": "result",
+    "score": 14.216292718168056,
+    "freq": 3
+  },
+  {
+    "term": "consistent",
+    "score": 14.209517201478878,
+    "freq": 2
+  },
+  {
+    "term": "funny",
+    "score": 14.209517201478878,
+    "freq": 2
+  },
+  {
+    "term": "race",
+    "score": 14.209517201478878,
+    "freq": 2
+  },
+  {
+    "term": "ecus",
+    "score": 14.209517201478878,
+    "freq": 2
+  },
+  {
+    "term": "related",
+    "score": 14.209517201478878,
+    "freq": 2
+  },
+  {
+    "term": "speed",
+    "score": 14.209517201478878,
+    "freq": 3
+  },
+  {
+    "term": "upsells",
+    "score": 14.209517201478878,
+    "freq": 2
+  },
+  {
+    "term": "higher",
+    "score": 14.209517201478878,
+    "freq": 2
+  },
+  {
+    "term": "struggle",
+    "score": 14.209517201478878,
+    "freq": 3
+  },
+  {
+    "term": "pivot",
+    "score": 13.974115588140911,
+    "freq": 2
+  },
+  {
+    "term": "leverage",
+    "score": 13.943374639667026,
+    "freq": 2
+  },
+  {
+    "term": "constraints",
+    "score": 13.943374639667026,
+    "freq": 2
+  },
+  {
+    "term": "interested",
+    "score": 13.928610645716274,
+    "freq": 6
+  },
+  {
+    "term": "cheaper",
+    "score": 13.900490786554837,
+    "freq": 3
+  },
+  {
+    "term": "significant",
+    "score": 13.876494644577262,
+    "freq": 2
+  },
+  {
+    "term": "waste",
+    "score": 13.815510557964274,
+    "freq": 2
+  },
+  {
+    "term": "scared",
+    "score": 13.815510557964274,
+    "freq": 2
+  },
+  {
+    "term": "alongside",
+    "score": 13.692080518998509,
+    "freq": 2
+  },
+  {
+    "term": "conversations",
+    "score": 13.692080518998509,
+    "freq": 2
+  },
+  {
+    "term": "behavior",
+    "score": 13.582037055436302,
+    "freq": 2
+  },
+  {
+    "term": "portfolio",
+    "score": 13.575261538747124,
+    "freq": 3
+  },
+  {
+    "term": "earlier",
+    "score": 13.516370020918934,
+    "freq": 3
+  },
+  {
+    "term": "decided",
+    "score": 13.516370020918934,
+    "freq": 3
+  },
+  {
+    "term": "gives",
+    "score": 13.46328996437492,
+    "freq": 2
+  },
+  {
+    "term": "pain",
+    "score": 13.183347464017316,
+    "freq": 3
+  },
+  {
+    "term": "differently",
+    "score": 13.183347464017316,
+    "freq": 2
+  },
+  {
+    "term": "worse",
+    "score": 13.183347464017316,
+    "freq": 2
+  },
+  {
+    "term": "staring",
+    "score": 13.183347464017316,
+    "freq": 2
+  },
+  {
+    "term": "hour",
+    "score": 13.183347464017316,
+    "freq": 2
+  },
+  {
+    "term": "exposed",
+    "score": 13.183347464017316,
+    "freq": 2
+  },
+  {
+    "term": "emotional",
+    "score": 13.183347464017316,
+    "freq": 2
+  },
+  {
+    "term": "barely",
+    "score": 13.183347464017316,
+    "freq": 2
+  },
+  {
+    "term": "hyper",
+    "score": 13.183347464017316,
+    "freq": 2
+  },
+  {
+    "term": "watched",
+    "score": 13.183347464017316,
+    "freq": 2
+  },
+  {
+    "term": "forgot",
+    "score": 13.183347464017316,
+    "freq": 2
+  },
+  {
+    "term": "scattered",
+    "score": 13.183347464017316,
+    "freq": 2
+  },
+  {
+    "term": "exhausted",
+    "score": 13.183347464017316,
+    "freq": 2
+  },
+  {
+    "term": "ability",
+    "score": 13.183347464017316,
+    "freq": 2
+  },
+  {
+    "term": "shouldn",
+    "score": 13.183347464017316,
+    "freq": 2
+  },
+  {
+    "term": "listen",
+    "score": 13.183347464017316,
+    "freq": 2
+  },
+  {
+    "term": "habit",
+    "score": 13.183347464017316,
+    "freq": 2
+  },
+  {
+    "term": "prefer",
+    "score": 13.176571947328139,
+    "freq": 4
+  },
+  {
+    "term": "happy",
+    "score": 13.176571947328139,
+    "freq": 3
+  },
+  {
+    "term": "trade",
+    "score": 13.16979643063896,
+    "freq": 2
+  },
+  {
+    "term": "place",
+    "score": 13.112033426190568,
+    "freq": 5
+  },
+  {
+    "term": "room",
+    "score": 13.057824856266755,
+    "freq": 2
+  },
+  {
+    "term": "entrepreneurship",
+    "score": 12.914947875445865,
+    "freq": 2
+  },
+  {
+    "term": "profit",
+    "score": 12.542316284596385,
+    "freq": 3
+  },
+  {
+    "term": "network",
+    "score": 12.542316284596383,
+    "freq": 2
+  },
+  {
+    "term": "talent",
+    "score": 12.542316284596383,
+    "freq": 3
+  },
+  {
+    "term": "talk",
+    "score": 12.509482767337701,
+    "freq": 4
+  },
+  {
+    "term": "packaging",
+    "score": 12.483424766768193,
+    "freq": 2
+  },
+  {
+    "term": "gifted",
+    "score": 12.476649250079014,
+    "freq": 2
+  },
+  {
+    "term": "actively",
+    "score": 12.476649250079014,
+    "freq": 2
+  },
+  {
+    "term": "personally",
+    "score": 12.476649250079014,
+    "freq": 2
+  },
+  {
+    "term": "reasonable",
+    "score": 12.476649250079014,
+    "freq": 2
+  },
+  {
+    "term": "worldwide",
+    "score": 12.412110728941444,
+    "freq": 2
+  },
+  {
+    "term": "insane",
+    "score": 12.412110728941444,
+    "freq": 2
+  },
+  {
+    "term": "straightforward",
+    "score": 12.364677675706812,
+    "freq": 2
+  },
+  {
+    "term": "keeping",
+    "score": 12.364677675706812,
+    "freq": 3
+  },
+  {
+    "term": "basic",
+    "score": 12.21793090883883,
+    "freq": 3
+  },
+  {
+    "term": "hello",
+    "score": 12.21793090883883,
+    "freq": 4
+  },
+  {
+    "term": "materials",
+    "score": 12.162909177057728,
+    "freq": 3
+  },
+  {
+    "term": "wins",
+    "score": 12.162909177057728,
+    "freq": 2
+  },
+  {
+    "term": "checking",
+    "score": 12.136851176488221,
+    "freq": 3
+  },
+  {
+    "term": "shops",
+    "score": 12.08473517534921,
+    "freq": 2
+  },
+  {
+    "term": "filled",
+    "score": 12.08473517534921,
+    "freq": 2
+  },
+  {
+    "term": "podcast",
+    "score": 11.959212567598646,
+    "freq": 3
+  },
+  {
+    "term": "thread",
+    "score": 11.959212567598646,
+    "freq": 3
+  },
+  {
+    "term": "subreddit",
+    "score": 11.959212567598646,
+    "freq": 2
+  },
+  {
+    "term": "operators",
+    "score": 11.959212567598646,
+    "freq": 2
+  },
+  {
+    "term": "proof",
+    "score": 11.84916910403644,
+    "freq": 3
+  },
+  {
+    "term": "pros",
+    "score": 11.823111103466934,
+    "freq": 2
+  },
+  {
+    "term": "including",
+    "score": 11.816335586777756,
+    "freq": 2
+  },
+  {
+    "term": "shared",
+    "score": 11.764219585638742,
+    "freq": 3
+  },
+  {
+    "term": "hacks",
+    "score": 11.764219585638742,
+    "freq": 2
+  },
+  {
+    "term": "strongly",
+    "score": 11.764219585638742,
+    "freq": 2
+  },
+  {
+    "term": "appreciated",
+    "score": 11.587545032154164,
+    "freq": 4
+  },
+  {
+    "term": "boost",
+    "score": 11.524783728278885,
+    "freq": 2
+  },
+  {
+    "term": "obviously",
+    "score": 11.469761996497782,
+    "freq": 2
+  },
+  {
+    "term": "december",
+    "score": 11.443703995928274,
+    "freq": 2
+  },
+  {
+    "term": "hopefully",
+    "score": 11.436928479239096,
+    "freq": 3
+  },
+  {
+    "term": "physical",
+    "score": 11.41764599535877,
+    "freq": 3
+  },
+  {
+    "term": "episode",
+    "score": 11.2660653870387,
+    "freq": 2
+  },
+  {
+    "term": "christian",
+    "score": 11.2660653870387,
+    "freq": 2
+  },
+  {
+    "term": "reed",
+    "score": 11.2660653870387,
+    "freq": 2
+  },
+  {
+    "term": "reekon",
+    "score": 11.2660653870387,
+    "freq": 2
+  },
+  {
+    "term": "official",
+    "score": 11.2660653870387,
+    "freq": 2
+  },
+  {
+    "term": "celebration",
+    "score": 11.2660653870387,
+    "freq": 2
+  },
+  {
+    "term": "subscribers",
+    "score": 11.2660653870387,
+    "freq": 3
+  },
+  {
+    "term": "guest",
+    "score": 11.2660653870387,
+    "freq": 2
+  },
+  {
+    "term": "season",
+    "score": 11.2660653870387,
+    "freq": 2
+  },
+  {
+    "term": "shortly",
+    "score": 11.2660653870387,
+    "freq": 2
+  },
+  {
+    "term": "episodes",
+    "score": 11.2660653870387,
+    "freq": 2
+  },
+  {
+    "term": "brndmkrs",
+    "score": 11.2660653870387,
+    "freq": 2
+  },
+  {
+    "term": "programming",
+    "score": 11.2660653870387,
+    "freq": 2
+  },
+  {
+    "term": "scripts",
+    "score": 11.2660653870387,
+    "freq": 2
+  },
+  {
+    "term": "drops",
+    "score": 11.2660653870387,
+    "freq": 2
+  },
+  {
+    "term": "medium",
+    "score": 11.262205145885783,
+    "freq": 3
+  },
+  {
+    "term": "afraid",
+    "score": 11.214913441304684,
+    "freq": 3
+  },
+  {
+    "term": "killing",
+    "score": 11.19684391799675,
+    "freq": 2
+  },
+  {
+    "term": "book",
+    "score": 11.149246406787316,
+    "freq": 4
+  },
+  {
+    "term": "agency",
+    "score": 11.097130405648302,
+    "freq": 4
+  },
+  {
+    "term": "thoughts",
+    "score": 10.890528065547132,
+    "freq": 3
+  },
+  {
+    "term": "across",
+    "score": 10.802672816507343,
+    "freq": 6
+  },
+  {
+    "term": "potential",
+    "score": 10.802672816507343,
+    "freq": 3
+  },
+  {
+    "term": "tone",
+    "score": 10.75055681536833,
+    "freq": 2
+  },
+  {
+    "term": "contribution",
+    "score": 10.75055681536833,
+    "freq": 2
+  },
+  {
+    "term": "develop",
+    "score": 10.75055681536833,
+    "freq": 2
+  },
+  {
+    "term": "friction",
+    "score": 10.75055681536833,
+    "freq": 3
+  },
+  {
+    "term": "weekend",
+    "score": 10.75055681536833,
+    "freq": 2
+  },
+  {
+    "term": "relevant",
+    "score": 10.750556815368329,
+    "freq": 2
+  },
+  {
+    "term": "explaining",
+    "score": 10.750556815368329,
+    "freq": 3
+  },
+  {
+    "term": "somewhere",
+    "score": 10.750556815368329,
+    "freq": 2
+  },
+  {
+    "term": "quit",
+    "score": 10.750556815368329,
+    "freq": 2
+  },
+  {
+    "term": "hope",
+    "score": 10.743781298679151,
+    "freq": 2
+  },
+  {
+    "term": "discipline",
+    "score": 10.743781298679151,
+    "freq": 2
+  },
+  {
+    "term": "accountability",
+    "score": 10.743781298679151,
+    "freq": 2
+  },
+  {
+    "term": "skeptical",
+    "score": 10.743781298679151,
+    "freq": 2
+  },
+  {
+    "term": "employee",
+    "score": 10.724498814798824,
+    "freq": 2
+  },
+  {
+    "term": "crazy",
+    "score": 10.679242777541582,
+    "freq": 3
+  },
+  {
+    "term": "expect",
+    "score": 10.514990744055563,
+    "freq": 2
+  },
+  {
+    "term": "luck",
+    "score": 10.514990744055563,
+    "freq": 3
+  },
+  {
+    "term": "branding",
+    "score": 10.488932743486055,
+    "freq": 3
+  },
+  {
+    "term": "presence",
+    "score": 10.485062957438966,
+    "freq": 2
+  },
+  {
+    "term": "provider",
+    "score": 10.436816742347045,
+    "freq": 3
+  },
+  {
+    "term": "spot",
+    "score": 10.430041225657863,
+    "freq": 3
+  },
+  {
+    "term": "hand",
+    "score": 10.349774655164547,
+    "freq": 2
+  },
+  {
+    "term": "marketplaces",
+    "score": 10.109525635947398,
+    "freq": 2
+  },
+  {
+    "term": "sitting",
+    "score": 10.109525635947398,
+    "freq": 3
+  },
+  {
+    "term": "experiences",
+    "score": 10.057409634808385,
+    "freq": 3
+  },
+  {
+    "term": "teach",
+    "score": 10.050634118119207,
+    "freq": 2
+  },
+  {
+    "term": "although",
+    "score": 10.050634118119207,
+    "freq": 2
+  },
+  {
+    "term": "presented",
+    "score": 10.050634118119206,
+    "freq": 2
+  },
+  {
+    "term": "awesome",
+    "score": 10.050634118119206,
+    "freq": 2
+  },
+  {
+    "term": "navigate",
+    "score": 10.050634118119206,
+    "freq": 2
+  },
+  {
+    "term": "driven",
+    "score": 10.046720218798072,
+    "freq": 4
+  },
+  {
+    "term": "noticed",
+    "score": 9.656627474604601,
+    "freq": 2
+  },
+  {
+    "term": "successful",
+    "score": 9.416378455387454,
+    "freq": 3
+  },
+  {
+    "term": "flyers",
+    "score": 9.416378455387452,
+    "freq": 2
+  },
+  {
+    "term": "ones",
+    "score": 9.357486937559262,
+    "freq": 5
+  },
+  {
+    "term": "competitive",
+    "score": 9.338204453678934,
+    "freq": 2
+  },
+  {
+    "term": "available",
+    "score": 9.338204453678934,
+    "freq": 2
+  },
+  {
+    "term": "reasons",
+    "score": 9.076580381796658,
+    "freq": 2
+  },
+  {
+    "term": "leave",
+    "score": 9.017688863968466,
+    "freq": 2
+  },
+  {
+    "term": "rely",
+    "score": 9.017688863968466,
+    "freq": 2
+  },
+  {
+    "term": "partner",
+    "score": 9.010913347279288,
+    "freq": 3
+  },
+  {
+    "term": "rather",
+    "score": 9.010913347279288,
+    "freq": 2
+  },
+  {
+    "term": "cheap",
+    "score": 9.010913347279288,
+    "freq": 4
+  },
+  {
+    "term": "sound",
+    "score": 9.010913347279288,
+    "freq": 2
+  },
+  {
+    "term": "weekly",
+    "score": 9.010913347279288,
+    "freq": 2
+  },
+  {
+    "term": "operation",
+    "score": 8.946374826141717,
+    "freq": 2
+  },
+  {
+    "term": "landing",
+    "score": 8.822944787175954,
+    "freq": 3
+  },
+  {
+    "term": "organic",
+    "score": 8.788898309344878,
+    "freq": 2
+  },
+  {
+    "term": "layer",
+    "score": 8.764053269347762,
+    "freq": 2
+  },
+  {
+    "term": "spin",
+    "score": 8.764053269347762,
+    "freq": 2
+  },
+  {
+    "term": "biggest",
+    "score": 8.727944932924753,
+    "freq": 2
+  },
+  {
+    "term": "facebook",
+    "score": 8.723231274827508,
+    "freq": 2
+  },
+  {
+    "term": "solo",
+    "score": 8.723231274827508,
+    "freq": 3
+  },
+  {
+    "term": "under",
+    "score": 8.723231274827508,
+    "freq": 2
+  },
+  {
+    "term": "curriculum",
+    "score": 8.723231274827508,
+    "freq": 2
+  },
+  {
+    "term": "gone",
+    "score": 8.671115273688494,
+    "freq": 3
+  },
+  {
+    "term": "similar",
+    "score": 8.383433201236713,
+    "freq": 3
+  },
+  {
+    "term": "realized",
+    "score": 8.383433201236713,
+    "freq": 5
+  },
+  {
+    "term": "forces",
+    "score": 8.317766166719343,
+    "freq": 2
+  },
+  {
+    "term": "preparing",
+    "score": 8.317766166719343,
+    "freq": 2
+  },
+  {
+    "term": "communication",
+    "score": 8.317766166719343,
+    "freq": 2
+  },
+  {
+    "term": "remember",
+    "score": 8.317766166719343,
+    "freq": 3
+  },
+  {
+    "term": "imagine",
+    "score": 8.317766166719343,
+    "freq": 2
+  },
+  {
+    "term": "exploits",
+    "score": 8.317766166719343,
+    "freq": 2
+  },
+  {
+    "term": "play",
+    "score": 8.317766166719343,
+    "freq": 2
+  },
+  {
+    "term": "largely",
+    "score": 8.317766166719343,
+    "freq": 2
+  },
+  {
+    "term": "prep",
+    "score": 8.317766166719343,
+    "freq": 2
+  },
+  {
+    "term": "walk",
+    "score": 8.317766166719343,
+    "freq": 2
+  },
+  {
+    "term": "language",
+    "score": 8.317766166719343,
+    "freq": 2
+  },
+  {
+    "term": "experimenting",
+    "score": 8.317766166719343,
+    "freq": 2
+  },
+  {
+    "term": "summary",
+    "score": 8.317766166719343,
+    "freq": 2
+  },
+  {
+    "term": "bother",
+    "score": 8.317766166719343,
+    "freq": 2
+  },
+  {
+    "term": "extra",
+    "score": 8.317766166719343,
+    "freq": 2
+  },
+  {
+    "term": "sure",
+    "score": 8.317766166719343,
+    "freq": 4
+  },
+  {
+    "term": "coach",
+    "score": 8.317766166719343,
+    "freq": 2
+  },
+  {
+    "term": "fell",
+    "score": 8.317766166719343,
+    "freq": 2
+  },
+  {
+    "term": "prior",
+    "score": 8.317766166719343,
+    "freq": 2
+  },
+  {
+    "term": "mentioned",
+    "score": 8.317766166719343,
+    "freq": 2
+  },
+  {
+    "term": "hype",
+    "score": 8.253227645581774,
+    "freq": 3
+  },
+  {
+    "term": "vibes",
+    "score": 8.253227645581774,
+    "freq": 2
+  },
+  {
+    "term": "combined",
+    "score": 8.004026093698055,
+    "freq": 2
+  },
+  {
+    "term": "garage",
+    "score": 8.004026093698055,
+    "freq": 2
+  },
+  {
+    "term": "affected",
+    "score": 7.971192576439371,
+    "freq": 3
+  },
+  {
+    "term": "often",
+    "score": 7.83025727085557,
+    "freq": 2
+  },
+  {
+    "term": "types",
+    "score": 7.796469243086057,
+    "freq": 2
+  },
+  {
+    "term": "various",
+    "score": 7.690286020676767,
+    "freq": 3
+  },
+  {
+    "term": "risks",
+    "score": 7.690286020676767,
+    "freq": 2
+  },
+  {
+    "term": "assuming",
+    "score": 7.685243607975833,
+    "freq": 2
+  },
+  {
+    "term": "soon",
+    "score": 7.6246189861593985,
+    "freq": 2
+  },
+  {
+    "term": "teen",
+    "score": 7.6246189861593985,
+    "freq": 2
+  },
+  {
+    "term": "exams",
+    "score": 7.6246189861593985,
+    "freq": 2
+  },
+  {
+    "term": "exam",
+    "score": 7.6246189861593985,
+    "freq": 2
+  },
+  {
+    "term": "cards",
+    "score": 7.624618986159398,
+    "freq": 3
+  },
+  {
+    "term": "direct",
+    "score": 7.284820912568604,
+    "freq": 2
+  },
+  {
+    "term": "theory",
+    "score": 7.284820912568604,
+    "freq": 2
+  },
+  {
+    "term": "countries",
+    "score": 7.278045395879426,
+    "freq": 2
+  },
+  {
+    "term": "comes",
+    "score": 7.278045395879426,
+    "freq": 2
+  },
+  {
+    "term": "managing",
+    "score": 7.278045395879426,
+    "freq": 2
+  },
+  {
+    "term": "buys",
+    "score": 7.0311853179479,
+    "freq": 2
+  },
+  {
+    "term": "models",
+    "score": 7.0311853179479,
+    "freq": 2
+  },
+  {
+    "term": "bootstrapping",
+    "score": 6.990363323427645,
+    "freq": 2
+  },
+  {
+    "term": "manufacturing",
+    "score": 6.931471805599452,
+    "freq": 3
+  },
+  {
+    "term": "overnight",
+    "score": 6.802394763324312,
+    "freq": 2
+  },
+  {
+    "term": "overwhelmed",
+    "score": 6.643789733147672,
+    "freq": 2
+  },
+  {
+    "term": "overwhelming",
+    "score": 6.643789733147672,
+    "freq": 2
+  },
+  {
+    "term": "decent",
+    "score": 6.643789733147672,
+    "freq": 4
+  },
+  {
+    "term": "squarespace",
+    "score": 6.643789733147672,
+    "freq": 2
+  },
+  {
+    "term": "dive",
+    "score": 6.643789733147672,
+    "freq": 2
+  },
+  {
+    "term": "engagement",
+    "score": 6.591673732008658,
+    "freq": 2
+  },
+  {
+    "term": "developer",
+    "score": 6.591673732008658,
+    "freq": 2
+  },
+  {
+    "term": "stopped",
+    "score": 6.591673732008658,
+    "freq": 4
+  },
+  {
+    "term": "opportunities",
+    "score": 6.591673732008658,
+    "freq": 2
+  },
+  {
+    "term": "discussion",
+    "score": 6.58489821531948,
+    "freq": 2
+  },
+  {
+    "term": "promotion",
+    "score": 6.58489821531948,
+    "freq": 2
+  },
+  {
+    "term": "seeking",
+    "score": 6.58489821531948,
+    "freq": 2
+  },
+  {
+    "term": "wise",
+    "score": 6.58489821531948,
+    "freq": 2
+  },
+  {
+    "term": "input",
+    "score": 6.326179874079296,
+    "freq": 2
+  },
+  {
+    "term": "prompt",
+    "score": 6.271158142298193,
+    "freq": 2
+  },
+  {
+    "term": "obvious",
+    "score": 6.271158142298193,
+    "freq": 2
+  },
+  {
+    "term": "creators",
+    "score": 5.950642552587727,
+    "freq": 3
+  },
+  {
+    "term": "missing",
+    "score": 5.950642552587727,
+    "freq": 4
+  },
+  {
+    "term": "promote",
+    "score": 5.950642552587727,
+    "freq": 2
+  },
+  {
+    "term": "brands",
+    "score": 5.891751034759535,
+    "freq": 2
+  },
+  {
+    "term": "deals",
+    "score": 5.891751034759535,
+    "freq": 2
+  },
+  {
+    "term": "replacement",
+    "score": 5.63303269351935,
+    "freq": 2
+  },
+  {
+    "term": "moment",
+    "score": 5.63303269351935,
+    "freq": 3
+  },
+  {
+    "term": "dashboard",
+    "score": 5.63303269351935,
+    "freq": 2
+  },
+  {
+    "term": "promising",
+    "score": 5.575949103146316,
+    "freq": 2
+  },
+  {
+    "term": "card",
+    "score": 5.545177444479562,
+    "freq": 2
+  },
+  {
+    "term": "consider",
+    "score": 5.545177444479562,
+    "freq": 3
+  },
+  {
+    "term": "delegating",
+    "score": 5.545177444479562,
+    "freq": 2
+  },
+  {
+    "term": "discuss",
+    "score": 5.370454111126248,
+    "freq": 2
+  },
+  {
+    "term": "area",
+    "score": 5.2574953720277815,
+    "freq": 2
+  },
+  {
+    "term": "loved",
+    "score": 4.852030263919617,
+    "freq": 2
+  },
+  {
+    "term": "engineer",
+    "score": 4.852030263919617,
+    "freq": 2
+  },
+  {
+    "term": "scalable",
+    "score": 4.852030263919617,
+    "freq": 2
+  },
+  {
+    "term": "optional",
+    "score": 4.852030263919617,
+    "freq": 2
+  },
+  {
+    "term": "plays",
+    "score": 4.852030263919617,
+    "freq": 2
+  },
+  {
+    "term": "advanced",
+    "score": 4.852030263919617,
+    "freq": 2
+  },
+  {
+    "term": "estate",
+    "score": 4.852030263919617,
+    "freq": 2
+  },
+  {
+    "term": "engineering",
+    "score": 4.852030263919617,
+    "freq": 2
+  },
+  {
+    "term": "owns",
+    "score": 4.852030263919617,
+    "freq": 2
+  },
+  {
+    "term": "returns",
+    "score": 4.623239709296028,
+    "freq": 2
+  },
+  {
+    "term": "roles",
+    "score": 4.605170185988092,
+    "freq": 2
+  },
+  {
+    "term": "clothing",
+    "score": 4.538290190898329,
+    "freq": 2
+  },
+  {
+    "term": "links",
+    "score": 4.505456673639644,
+    "freq": 2
+  },
+  {
+    "term": "release",
+    "score": 4.1588830833596715,
+    "freq": 3
+  },
+  {
+    "term": "prove",
+    "score": 4.1588830833596715,
+    "freq": 2
+  },
+  {
+    "term": "loop",
+    "score": 4.1588830833596715,
+    "freq": 2
+  },
+  {
+    "term": "requires",
+    "score": 4.1588830833596715,
+    "freq": 2
+  },
+  {
+    "term": "girl",
+    "score": 4.1588830833596715,
+    "freq": 2
+  },
+  {
+    "term": "block",
+    "score": 4.1588830833596715,
+    "freq": 2
+  },
+  {
+    "term": "pocket",
+    "score": 4.1588830833596715,
+    "freq": 2
+  },
+  {
+    "term": "music",
+    "score": 4.1588830833596715,
+    "freq": 2
+  },
+  {
+    "term": "close",
+    "score": 4.1588830833596715,
+    "freq": 2
+  },
+  {
+    "term": "watching",
+    "score": 4.1588830833596715,
+    "freq": 2
+  },
+  {
+    "term": "reality",
+    "score": 3.988984046564275,
+    "freq": 2
+  },
+  {
+    "term": "publish",
+    "score": 3.8451430103383837,
+    "freq": 2
+  },
+  {
+    "term": "style",
+    "score": 3.8451430103383837,
+    "freq": 2
+  },
+  {
+    "term": "itself",
+    "score": 3.8451430103383837,
+    "freq": 2
+  },
+  {
+    "term": "cycle",
+    "score": 3.8451430103383837,
+    "freq": 2
+  },
+  {
+    "term": "marketplace",
+    "score": 3.5835189384561104,
+    "freq": 3
+  },
+  {
+    "term": "roadmap",
+    "score": 3.58351893845611,
+    "freq": 3
+  },
+  {
+    "term": "funding",
+    "score": 3.58351893845611,
+    "freq": 2
+  },
+  {
+    "term": "decisions",
+    "score": 3.5263605246161616,
+    "freq": 2
+  },
+  {
+    "term": "uncomfortable",
+    "score": 3.5263605246161616,
+    "freq": 2
+  },
+  {
+    "term": "shaky",
+    "score": 3.5263605246161616,
+    "freq": 2
+  },
+  {
+    "term": "stages",
+    "score": 3.5246274206279185,
+    "freq": 2
+  },
+  {
+    "term": "quickly",
+    "score": 3.4011973816621555,
+    "freq": 2
+  },
+  {
+    "term": "corp",
+    "score": 3.1780538303479453,
+    "freq": 2
+  },
+  {
+    "term": "face",
+    "score": 3.119162312519754,
+    "freq": 2
+  },
+  {
+    "term": "tactics",
+    "score": 2.772588722239781,
+    "freq": 2
+  },
+  {
+    "term": "studio",
+    "score": 2.484906649788001,
+    "freq": 2
+  },
+  {
+    "term": "software",
+    "score": 2.4260151319598084,
+    "freq": 3
+  },
+  {
+    "term": "habits",
+    "score": 2.4260151319598084,
+    "freq": 2
+  },
+  {
+    "term": "hurdles",
+    "score": 2.4260151319598084,
+    "freq": 2
+  },
+  {
+    "term": "creator",
+    "score": 2.4260151319598084,
+    "freq": 2
+  },
+  {
+    "term": "specifically",
+    "score": 2.4260151319598084,
+    "freq": 2
+  },
+  {
+    "term": "integrity",
+    "score": 2.4260151319598084,
+    "freq": 2
+  },
+  {
+    "term": "trends",
+    "score": 2.4260151319598084,
+    "freq": 2
+  },
+  {
+    "term": "accounting",
+    "score": 2.4260151319598084,
+    "freq": 2
+  },
+  {
+    "term": "captions",
+    "score": 2.4260151319598084,
+    "freq": 2
+  },
+  {
+    "term": "execution",
+    "score": 2.4260151319598084,
+    "freq": 2
+  },
+  {
+    "term": "impact",
+    "score": 2.4260151319598084,
+    "freq": 2
+  },
+  {
+    "term": "vision",
+    "score": 2.4260151319598084,
+    "freq": 2
+  },
+  {
+    "term": "valuable",
+    "score": 2.19722457733622,
+    "freq": 2
+  },
+  {
+    "term": "obsessed",
+    "score": 2.19722457733622,
+    "freq": 2
+  },
+  {
+    "term": "collaborating",
+    "score": 1.7917594692280554,
+    "freq": 2
+  },
+  {
+    "term": "collaboration",
+    "score": 0.6931471805599453,
+    "freq": 2
+  },
+  {
+    "term": "logo",
+    "score": 0.6931471805599453,
+    "freq": 2
+  },
+  {
+    "term": "surprised",
+    "score": 0.0,
+    "freq": 2
+  },
+  {
+    "term": "ruin",
+    "score": 0.0,
+    "freq": 2
+  },
+  {
+    "term": "sides",
+    "score": 0.0,
+    "freq": 2
+  },
+  {
+    "term": "understands",
+    "score": 0.0,
+    "freq": 2
+  }
+]
