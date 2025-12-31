@@ -1,62 +1,59 @@
-# Projeto Ising Social: Simulação e Controle de Redes Complexas
+![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg) ![Status](https://img.shields.io/badge/status-operational-green.svg) ![Research](https://img.shields.io/badge/research-sociophysics-purple.svg)
 
-Este projeto aplica conceitos de **Física Estatística (Modelo de Ising)** sobre topologias de rede **Scale-Free (Barabási-Albert)** para modelar, analisar e controlar a propagação de tendências e formação de bolhas sociais.
+# Information Warfare & Market Physics Framework (FT-PHY-001)
 
-O objetivo é fornecer uma ferramenta analítica para entender a dinâmica de consenso, polarização e vulnerabilidade de redes sociais a ataques direcionados.
+## Author and Principal Investigator
+**DOUGLAS H. M. FULBER**
+Senior Software Engineer | Computational Physics Researcher
+CTO @asimovtechsystems | Architecting Mathematical Digital Twins
+Independent Researcher | Code-First Physics & Entropic Gravity
 
----
-
-## 📂 Estrutura do Projeto
-
-*   `social_ising.py`: **Engine de Simulação**. Código Python contendo a lógica de Monte Carlo, métricas de rede (Louvain, Centralidade) e visualização.
-*   `relatos/`: Relatórios de inteligência e análise estratégica dos experimentos.
-    *   `relatorio_final_inteligencia.md`: Autópsia completa da operação de inversão de tendência.
-*   `paper.md`: Artigo científico formal descrevendo a metodologia e resultados físicos.
-*   `assets/`: Galeria de artefatos visuais gerados.
+**Latest Work**: The Reactive Universe: A Computational Solution to the Dark Sector
+**DOI**: 10.5281/zenodo.18090702 | **Review**: Classical and Quantum Gravity
+**Profiles**: [GitHub](https://github.com/dougdotcon) | [LinkedIn](https://www.linkedin.com/in/dougdotcon/) | [ORCID](https://orcid.org/0009-0006-8140-768X)
 
 ---
 
-## 📊 Galeria de Resultados
+## Project Overview
+This repository hosts the **FT-PHY-001 Protocol**, a computational framework designed to bridge the gap between Theoretical Statistical Physics and High-Frequency Market Intelligence. By treating social platforms not as unstructured data lakes but as thermodynamic systems governed by the Ising Hamiltonian, we allow for the rigorous quantification of social consensus, polarization, and market susceptibility.
 
-### 1. Evolução e Estabilidade
-Acompanhamento temporal da adoção de uma tendência. Observe a saturação rápida (curva sigmóide) indicando "viralização".
+The system operates on three hierarchical levels:
+1.  **Theoretical Simulation**: Modeling the topology of influence.
+2.  **Market Observation**: Converting social metadata into physical observables.
+3.  **Semantic Engineering**: Extracting the vectors of maximum resonance (Pain/Sales coupling).
 
-![Evolução Temporal](assets/evolucao_tendencia.png)
+## Phase 1: The Ising-Barabási Simulation
+We model social networks as Scale-Free graphs (Barabási-Albert topology) where users interact via a modified Ising Hamiltonian:
 
-### 2. Anatomia da Rede e Influenciadores
-Visualização da estrutura topológica. Os nós maiores e amarelos são os **Hubs** (Influenciadores). Note como o consenso (cor dos nós) se cristaliza ao redor deles.
-
-![Rede Final](assets/rede_influenciadores_e_consenso.png)
-
-### 3. Cartografia de Bolhas
-Detecção de comunidades via Algoritmo de Louvain. Identifica "câmaras de eco" e bolhas autossustentáveis (orgânicas).
-
-![Comunidades](assets/comunidades_detectadas.png)
-
-### 4. O Ponto de Ruptura (Tipping Point)
-**Resultado Mais Crítico**: Gráfico demonstrando a fragilidade da rede. A linha vermelha mostra que comprometer apenas **3% dos nós (Hubs)** inverte a opinião da rede inteira (Transição de Fase). A linha cinza mostra a inutilidade de tentar influenciar usuários aleatórios.
-
-![Ataque Direcionado](assets/ataque_direcionado.png)
-
----
-
-## 🚀 Como Executar
-
-1.  Instale as dependências:
-    ```bash
-    pip install numpy networkx matplotlib scipy
-    ```
-2.  Execute a simulação:
-    ```bash
-    python social_ising.py
-    ```
-
-## 🔬 Fundamentação Científica
-
-Baseado no Hamiltoniano Social:
 $$ H = -J \sum_{\langle i,j \rangle} s_i s_j - h \sum_i s_i $$
 
-Onde a competição entre $J$ (pressão social) e $h$ (algoritmo/marketing) define se a rede entra em um estado de **Ordem Ferromagnética** (Consenso/Bolha) ou **Desordem Paramagnética** (Ruído).
+*   **J (Coupling Constant)**: Social pressure/Homophily.
+*   **h (External Field)**: Algorithmic bias, marketing, or propaganda.
+*   **s (Spin)**: The binary state of adoption (Accept/Reject).
+
+### Key Findings
+*   **The 3% Tipping Point**: Pinning Control simulations demonstrated that ensuring the loyalty of just **3%** of the network (specifically high-Eigenvector Centrality hubs) is sufficient to irreversibly invert the global consensus of the network, even against a persistent external field. This defines the "Oligarchy of the Hubs".
+
+## Phase 2: Reddit Market Physics
+Transitioning from simulation to reality, we mapped Reddit communities to canonical ensembles.
+*   **Susceptibility ($\chi$)**: Defined as the fluctuation of the order parameter (Sentiment/Pain), serving as a proxy for Market Volatility and "Gold Rush" potential.
+*   **Portfolio Scanning**: Real-time monitoring of multiple sectors (e.g., r/Entrepreneur, r/Investing) identified r/Entrepreneur as a critical system ($\chi \approx 0.70$) with high latent demand dynamics.
+
+## Phase 3: Semantic Field Engineering
+Using the data from the critical systems, we extract the "Interaction Energy" of specific keywords. By calculating the correlation between Term Frequency and the product of Pain Score (Spin) and Visibility (External Field), we generate a **Pain Cloud**.
+
+*   **Vocabulário de Ataque**: Words like "Problem", "Without", and "Building" were identified as having the highest cross-section for engagement, serving as the basis for "High-Q" copywriting.
+
+## Strategic Insights for Business & State
+This framework provides a deterministic approach to social engineering:
+
+1.  **For Corporations**: Stop "guessing" audience sentiment. Use the Susceptibility metric ($\chi$) to identify when a market niche is thermodynamically ready for a phase transition (product launch).
+2.  **For Intelligence**: Monitor the Magnetization ($M$) of social graphs. A sudden drop in $M$ on specific sub-networks precedes macroscopic social unrests or trend reversals.
+3.  **For Marketing**: Do not target the masses. Target the Topological Elite (3%). Identifying and converting these nodes yields a lower energy cost for global system adoption than broad-spectrum advertising.
 
 ---
-**Desenvolvido sob protocolo FT-PHY-001 - Física Teórica Computacional.**
+**Repository Structure (Branch: reddit-market-physics)**
+*   `src/`: Core engines (Monte Carlo Simulation, Reddit Scanner, Pain Mapper).
+*   `relatos/`: Intelligence reports and strategic dossiers.
+*   `docs/`: Academic papers and theoretical background.
+*   `assets/`: Visual evidence (Graphs, Matrices, Clouds).

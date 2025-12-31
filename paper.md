@@ -1,42 +1,49 @@
-# Targeted Phase Transitions in Scale-Free Social Networks: An Ising Model Approach
+# Computational Sociophysics: From Ising Models to High-Frequency Market Intelligence
 
-**Abstract**
-This study investigates the dynamics of opinion formation and consensus stability in social networks using a sociophysical approach based on the Ising Model applied to Barabási-Albert scale-free topologies. We demonstrate that social "bubbles" behave as ferromagnetic domains exhibiting hysteresis. Furthermore, we quantify the fragility of these networks against targeted pinning control attacks, revealing that a critical mass of approximately 3% of eigenvector-central nodes is sufficient to induce a global first-order phase transition, reversing established social consensus even in the presence of opposing external fields.
+**Author**: Douglas H. M. Fulber
+**Affiliation**: CTO @asimovtechsystems | Federated University Rio de Janeiro (Independent Research)
+**ORCID**: 0009-0006-8140-768X
+**Contact**: dougdotcon (GitHub/LinkedIn)
+
+## Abstract
+This study bridges the gap between theoretical statistical physics and applied market intelligence. Initially developing a simulation framework based on the Ising Model for scale-free networks to understand social consensus dynamics, we expanded the methodology to treat digital platforms (Reddit) as thermodynamic systems. By measuring the "Market Susceptibility" ($\chi$) and semantic "Pain Energy" ($E_{pain}$), we successfully developed a high-frequency scanner capable of identifying latent demand and defining optimal intervention strategies (Targeted Semantic Fields).
 
 ## 1. Introduction
-The emergence of polarization and "filter bubbles" in social media is a Defining characteristic of the modern digital era. Traditional sociological models often fail to capture the thermodynamic nature of these phenomena. By mapping social interactions to spin dynamics in magnetic systems, we can apply the rigour of Statistical Physics to understand how consensus (magnetization) emerges from local interactions (coupling $J$) and external algorithms (field $h$).
+Social media platforms are often analyzed using qualitative metrics. We propose a rigorous quantitative approach where distinct internet communities (Subreddits) are modeled as canonical ensembles in varying states of equilibrium. The goal is to maximize the extraction of "useful work" (revenue/influence) by identifying systems near critical phase transitions using the Ising Hamiltonian.
 
-## 2. Methodology
+## 2. Phase 1: Simulation of Social Dynamics (The Ising-Barabási Framework)
 
-### 2.1 The Social Hamiltonian
-We model the society as a system of $N$ spins $s_i = \pm 1$, governed by the Hamiltonian:
-$$ H = -J \sum_{\langle i,j \rangle} A_{ij} s_i s_j - h \sum_i s_i $$
-Where $A_{ij}$ is the adjacency matrix of a Barabási-Albert network ($P(k) \sim k^{-3}$), representing the scale-free nature of social connections (Followers).
+### 2.1 Methodology
+We modeled society as a graph $G(N, E)$ generating via the Barabási-Albert algorithm ($P(k) \sim k^{-3}$). Users are spins $s_i = \pm 1$.
+$$ H = -J \sum_{\langle i,j \rangle} s_i s_j - h \sum_i s_i $$
 
-### 2.2 Simulation Protocol
-The system evolution is simulated using the Metropolis-Hastings algorithm.
-1.  **Topological Generation**: $N=1000$, $m=3$ preferential attachment.
-2.  **Thermalization**: Initial evolution to equilibrium under $T=2.0$ and $h=0.1$.
-3.  **Susceptibility Analysis**: Calculation of $\chi = \frac{N}{T}\sigma_m^2$ to detect phase transitions.
-4.  **Targeted Attack**: Pinning control applied to top-$k$ nodes ranked by Eigenvector Centrality vs. Random selection.
+### 2.2 Key Findings
+*   **The 3% Rule**: Through "Pinning Control" simulations, we demonstrated that establishing fixed states in just 3% of the network (specifically nodes with high Eigenvector Centrality) is sufficient to induce a first-order phase transition, reversing global consensus against an opposing external field.
 
-## 3. Results
+## 3. Phase 2: Reddit as a Thermodynamic System
 
-### 3.1 Organic vs. Induced Bubbles
-Using Louvain modularity detection, we identified stable communities with Organic Ratios ($R > 10$), indicating self-sustaining consensus independent of the external field $h$. This validates the concept of "Social Hysteresis".
+### 3.1 Mapping Variables
+Moving from simulation to observation, we mapped Reddit metadata to physical observables:
+*   **Spin ($s_i$)**: The sentiment intensity of a post, specifically the "Pain Score" derived from Semantic Analysis (0 = Neutral, 1 = High Pain).
+*   **External Field ($h$)**: The visibility of the post ($\ln(Ups)$), representing the algorithm's pressure.
+*   **Temperature ($T$)**: The volatility of the topic.
 
-### 3.2 The 3% Rule (Tipping Point)
-In perturbation experiments, we measured the budget required to invert a network magnetization from $+0.93$ to $<0$.
-*   **Random Attack**: Failed to invert consensus even with 6% budget.
-*   **Hub Attack**: Successfully inverted consensus with 3% budget (30 nodes).
+### 3.2 Market Susceptibility ($\chi$)
+We defined Market Susceptibility as the fluctuations in the Pain Spin Order Parameter:
+$$ \chi = \frac{N}{T} (\langle S^2 \rangle - \langle S \rangle^2) $$
+A high $\chi$ indicates a market in a critical state—highly reactive to new solutions (external fields).
 
-The transition observed is sharp, characteristic of a discontinuous (first-order) phase transition induced by local field reversal at topological critical points.
+### 3.3 The Portfolio Scan
+Monitoring 13 sectors revealed that **r/Entrepreneur** operated at a critical point ($\chi \approx 0.70$) combined with high Pain Density ($S \approx 0.31$), identifying it as a "Gold Mine" for intervention compared to "cold" sectors like r/Investing.
 
-## 4. Discussion
-The results provide quantitative evidence that scale-free networks are robust against random failures (noise) but extremely fragile against targeted attacks. The "Dictatorship of the Hubs" is a necessary emergent property of the topology. For social engineering, this implies that controlling the narrative does not require broad consensus, but rather the capture of the topological elite.
+## 4. Phase 3: Semantic Field Engineering
+
+To exploit the identified susceptibility, we needed to tune the external field $h_{intervention}$. Using a correlation function between Term Frequency and Pain Energy, we extracted a "Pain Cloud".
+*   Identified critical semantic couplings: "Problem", "Without", "Building".
+*   Constructed a $h_{copy}$ vector designed to minimize the resistance of the target system.
 
 ## 5. Conclusion
-We successfully modeled social trend dynamics as thermodynamic states. The identification of the 3% tipping point provides a concrete metric for both stability analysis (cyber-defense) and active influence operations (information warfare).
+We successfully transitioned from theoretical physics (Ising Simulation) to applied engineering (Market Scanner). The framework FT-PHY-001 stands as a validated pipeline for converting social data into actionable strategic intelligence, treating the "hive mind" not as a mystery, but as a predictable physical system.
 
 ---
-**Keywords**: Sociophysics, Ising Model, Scale-Free Networks, Pinning Control, Phase Transitions.
+**Keywords**: Sociophysics, Reddit Intelligence, Ising Model, Market Susceptibility, Pinning Control, Semantic Energy.
